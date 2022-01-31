@@ -12,9 +12,9 @@
    inkscape:version="1.0.2-2 (e86c870879, 2021-01-15)"
    id="svg8"
    version="1.1"
-   viewBox="0 0 18076.938 17128.543"
-   height="5481.1338"
-   width="5784.6201">
+   viewBox="0 0 19996.581 17803.543"
+   height="5697.1338"
+   width="6398.9058">
   <defs
      id="defs2">
     <rect
@@ -154,13 +154,49 @@
        id="path1156-6-4-0-1-0-7-6-6-7-7"
        d="M 4666.7466,16050.955 H 13666.747"
        style="display:inline;opacity:0.5;fill:none;stroke:#000000;stroke-width:37.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <rect
+       id="rect5555-4"
+       height="525"
+       width="1650"
+       y="6525"
+       x="12000" />
+    <rect
+       id="rect1556"
+       height="525"
+       width="1650"
+       y="6525"
+       x="12000" />
+    <rect
+       id="rect5555-4-8"
+       height="525"
+       width="1650"
+       y="6525"
+       x="12000" />
+    <rect
+       id="rect1593"
+       height="525"
+       width="1650"
+       y="6525"
+       x="12000" />
+    <rect
+       id="rect5555-4-0"
+       height="525"
+       width="1650"
+       y="6525"
+       x="12000" />
+    <rect
+       id="rect1721"
+       height="525"
+       width="1650"
+       y="6525"
+       x="12000" />
   </defs>
   <sodipodi:namedview
      inkscape:object-nodes="true"
      inkscape:guide-bbox="true"
      showguides="false"
      inkscape:snap-bbox-edge-midpoints="false"
-     inkscape:snap-others="false"
+     inkscape:snap-others="true"
      inkscape:snap-grids="true"
      inkscape:snap-text-baseline="false"
      inkscape:snap-object-midpoints="true"
@@ -177,9 +213,9 @@
      inkscape:document-rotation="0"
      inkscape:current-layer="layer5"
      inkscape:document-units="in"
-     inkscape:cy="2797.9677"
-     inkscape:cx="3147.9174"
-     inkscape:zoom="0.075575672"
+     inkscape:cy="3521.2375"
+     inkscape:cx="4257.422"
+     inkscape:zoom="0.10263363"
      inkscape:pageshadow="2"
      inkscape:pageopacity="0.0"
      borderopacity="1.0"
@@ -194,7 +230,8 @@
      fit-margin-top="0"
      fit-margin-left="0"
      fit-margin-right="0"
-     fit-margin-bottom="0">
+     fit-margin-bottom="0"
+     inkscape:snap-center="true">
     <inkscape:grid
        empspacing="4"
        spacingy="37.5"
@@ -203,8 +240,8 @@
        id="grid833"
        type="xygrid"
        visible="true"
-       originx="2840.33"
-       originy="1058.8388" />
+       originx="2840.3301"
+       originy="1733.8388" />
   </sodipodi:namedview>
   <metadata
      id="metadata5">
@@ -223,12 +260,12 @@
      inkscape:label="roads"
      id="layer5"
      inkscape:groupmode="layer"
-     transform="translate(2840.33,1058.8388)">
+     transform="translate(2840.33,1733.8388)">
     <path
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path1156-6-4-0-1-0-7-6-6"
-       d="M 12300,16050 V 8100 l 1650,-4200"
+       d="M 12300,16050 V 8100 L 15150,900"
        style="display:inline;opacity:0.5;fill:none;stroke:#000000;stroke-width:37.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
@@ -336,7 +373,7 @@
        sodipodi:nodetypes="cssc"
        inkscape:connector-curvature="0"
        id="path1156-6-53-1-6"
-       d="m 9450,1350 h -150 c -70.7106,0 -150,79.2894 -150,150 v 750"
+       d="m 9450,675 h -150 c -70.7106,0 -150,79.2894 -150,150 l 0,1425"
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-opacity:1" />
     <path
        style="display:inline;fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
@@ -382,7 +419,7 @@
        style="display:inline;opacity:1;fill:none;stroke:#937034;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-opacity:1" />
     <path
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-opacity:1"
-       d="m 9450,450 v 900"
+       d="M 9412.5,-225 V 675"
        id="path1156-6-53-1-6-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
@@ -390,11 +427,11 @@
        sodipodi:nodetypes="cssc"
        inkscape:connector-curvature="0"
        id="path1156-6-53-1-6-3-8"
-       d="m 11250,1350 c 0,0 0,150 -150,150 H 9750 c -150,0 -300,-150 -300,-150"
+       d="m 11212.5,675 c 0,0 0,150 -150,150 h -1350 c -150,0 -300,-150 -300,-150"
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-opacity:1" />
     <path
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-opacity:1"
-       d="m 11250,300 c 0,0 0,150 -150,150 H 9450"
+       d="m 11212.5,-375 c 0,0 0,150 -150,150 h -1650"
        id="path1156-6-53-1-6-3-8-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="csc" />
@@ -402,31 +439,31 @@
        sodipodi:nodetypes="cssc"
        inkscape:connector-curvature="0"
        id="path1156-6-53-1-6-3-3"
-       d="m 11250,300 c 0,0 150,150 150,300 0,111.8034 -150,144.0983 -150,300 v 450"
+       d="m 11212.5,-375 c 0,0 150,150 150,299.999998 0,111.8034 -150,144.0983 -150,300.000002 v 450"
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-opacity:1" />
     <path
        sodipodi:nodetypes="csc"
        inkscape:connector-curvature="0"
        id="path1156-6-53-1-6-3-5"
-       d="m 9300,-450 c 0,0 150,150 150,300 v 600"
+       d="m 9262.5,-1125 c 0,0 150,150 150,300 v 600"
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path1156-6-53-1-6-3-1"
-       d="m 8700,-1050 600,600"
+       d="m 8662.5,-1725 600,600"
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-opacity:1" />
     <path
        sodipodi:nodetypes="cssssssc"
        inkscape:connector-curvature="0"
        id="path1156-6-53-1-6-3-4"
-       d="m 9300,-450 v -150 c 0,-70.71068 79.2893,-150 150,-150 h 900 c 111.803,0 220.943,70.94306 300,150 l 450,450 c 79.057,79.056942 150,188.196637 150,300 v 150"
+       d="m 9262.5,-1125 v -150 c 0,-70.7107 79.2893,-150 150,-150 h 900 c 111.803,0 220.943,70.9431 300,150 l 450,450 c 79.057,79.05694 150,188.19664 150,300 v 150"
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-opacity:1" />
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
        id="path1156-6-53-1-6-3-0"
-       d="m 12150,1350 h -900"
+       d="m 12112.5,675 h -900"
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-opacity:1" />
     <path
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-opacity:1"
@@ -567,8 +604,8 @@
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc" />
     <text
-       transform="translate(72.253418,596.05393)"
-       style="font-style:normal;font-weight:normal;font-size:125px;line-height:1.25;font-family:sans-serif;text-align:center;shape-inside:url(#rect5555);opacity:0.501355;fill:#000000;fill-opacity:1;stroke:none"
+       transform="rotate(-68.38791,11184.992,4271.5254)"
+       style="font-style:normal;font-weight:normal;font-size:125px;line-height:1.25;font-family:sans-serif;text-align:center;shape-inside:url(#rect5555);opacity:0.501355;fill:#000000;fill-opacity:1;stroke:none;"
        id="text5553"
        xml:space="preserve"><tspan
          x="12311.45"
@@ -578,30 +615,82 @@
        sodipodi:nodetypes="ccc"
        inkscape:connector-curvature="0"
        id="path1156-6-4-0-1-0-7-6-6-7-0"
-       d="m -1200,5100 v 10950 l 14866.747,0.955"
+       d="m -1200,1350 v 14700 l 14866.747,0.955"
        style="display:inline;opacity:0.5;fill:none;stroke:#000000;stroke-width:37.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <text
-       transform="translate(-3223.3399,9007.0028)"
+       transform="translate(-3072.7483,9305.695)"
        xml:space="preserve"
        id="text5553-6-5"
-       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:133.333px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;shape-inside:url(#rect5555);shape-padding:0;shape-margin:0;inline-size:0;display:inline;opacity:0.499;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"><tspan
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:133.333px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;shape-inside:url(#rect5555);shape-padding:0;shape-margin:0;inline-size:0;display:inline;opacity:0.499;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1;"><tspan
          x="12551.107"
          y="6641.6664"><tspan>Route 3</tspan></tspan></text>
     <text
        transform="translate(-14924.772,2998.0836)"
-       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:133.333px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;shape-inside:url(#rect5555);shape-padding:0;shape-margin:0;inline-size:0;display:inline;opacity:0.499;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1"
+       style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:133.333px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;shape-inside:url(#rect5555);shape-padding:0;shape-margin:0;inline-size:0;display:inline;opacity:0.499;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000;stop-opacity:1;"
        id="text5553-6-5-4"
        xml:space="preserve"><tspan
          x="12081.577"
          y="6641.6664"><tspan
            style="stroke-width:0.1024">Route 3 / Route 198</tspan></tspan></text>
+    <path
+       style="opacity:0.5;fill:none;stroke:#000000;stroke-width:37.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 12337.5,10200 h 4800"
+       id="path1545" />
+    <text
+       transform="rotate(0.08466479,-2344006.1,108708.07)"
+       style="font-style:normal;font-weight:normal;font-size:125px;line-height:1.25;font-family:sans-serif;text-align:center;shape-inside:url(#rect5555-4);display:inline;opacity:0.501355;fill:#000000;fill-opacity:1;stroke:none;"
+       id="text5553-3"
+       xml:space="preserve"><tspan
+         x="12311.45"
+         y="6639.0413"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';text-align:center;text-anchor:middle;opacity:0.499">Park Loop Road</tspan></tspan></text>
+    <text
+       transform="rotate(-89.915335,14701.663,9116.6368)"
+       style="font-style:normal;font-weight:normal;font-size:125px;line-height:1.25;font-family:sans-serif;text-align:center;shape-inside:url(#rect5555-4-8);display:inline;opacity:0.501355;fill:#000000;fill-opacity:1;stroke:none;"
+       id="text5553-3-7"
+       xml:space="preserve"><tspan
+         x="12164.722"
+         y="6639.0413"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';text-align:center;text-anchor:middle;opacity:0.499">Stanley Brook Road</tspan></tspan></text>
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1156-6-4-0-1-0-7-1-8"
+       d="m 14606.25,12150 h -112.5"
+       style="display:inline;fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1156-6-4-0-1-0-7-6-6-7"
+       d="M -1162.5,1462.5 H 15300"
+       style="display:inline;opacity:0.5;fill:none;stroke:#000000;stroke-width:37.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1156-6-4-0-1-0-7-6-6-7-71"
+       d="m 12112.5,675 v 750"
+       style="display:inline;opacity:0.5;fill:none;stroke:#000000;stroke-width:37.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <path
+       sodipodi:nodetypes="cc"
+       inkscape:connector-curvature="0"
+       id="path1156-6-4-0-1-0-7-6-6-7-71-4"
+       d="m 12112.5,187.5 v 375"
+       style="display:inline;opacity:0.5;fill:none;stroke:#000000;stroke-width:37.5;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+    <text
+       transform="rotate(0.08466479,3365898.3,53816.927)"
+       style="font-style:normal;font-weight:normal;font-size:125px;line-height:1.25;font-family:sans-serif;text-align:center;shape-inside:url(#rect5555-4-0);display:inline;opacity:0.501355;fill:#000000;fill-opacity:1;stroke:none;"
+       id="text5553-3-71"
+       xml:space="preserve"><tspan
+         x="12274.768"
+         y="6639.0413"><tspan
+           style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';text-align:center;text-anchor:middle;opacity:0.499">Eagle Lake Road</tspan></tspan></text>
   </g>
   <g
      style="display:inline;opacity:1"
      inkscape:label="text"
      id="layer4"
      inkscape:groupmode="layer"
-     transform="translate(2840.33,1058.8388)">
+     transform="translate(2840.33,1733.8388)">
     <text
        id="text986-2-3"
        y="6669.5454"
@@ -1061,246 +1150,246 @@
          id="tspan1096-3-1-5-8-8-1-3-3">???</tspan></text>
     <text
        id="text986-4-7-8-9-8-2-3-35-0-0"
-       y="1115.4052"
-       x="9416.5693"
+       y="440.40515"
+       x="9379.0693"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
-         y="1115.4052"
-         x="9416.5693"
+         y="440.40515"
+         x="9379.0693"
          sodipodi:role="line"
          id="tspan2404-1">Paradise Hill</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
-         y="1198.7385"
-         x="9416.5693"
+         y="523.73853"
+         x="9379.0693"
          sodipodi:role="line"
          id="tspan2402-1">Hulls Cove</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
-       x="9112.2559"
-       y="1369.5718"
+       x="9074.7559"
+       y="694.57178"
        id="text986-4-7-8-9-8-2-3-35-0-0-6"><tspan
          id="tspan2483"
          sodipodi:role="line"
-         x="9112.2559"
-         y="1369.5718"
+         x="9074.7559"
+         y="694.57178"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125">Eagle Lake</tspan><tspan
          id="tspan2487"
          sodipodi:role="line"
-         x="9112.2559"
-         y="1452.9052"
+         x="9074.7559"
+         y="777.90515"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125">Seal Harbor</tspan><tspan
          id="tspan2402-1-6"
          sodipodi:role="line"
-         x="9112.2559"
-         y="1536.2385"
+         x="9074.7559"
+         y="861.23859"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125">N.E. Harbor</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
-       x="9591.8623"
-       y="1302.9052"
+       x="9554.3623"
+       y="627.90515"
        id="text986-4-7-8-9-8-2-3-35-0-0-7"><tspan
          id="tspan2404-1-6"
          sodipodi:role="line"
-         x="9591.8623"
-         y="1302.9052"
+         x="9554.3623"
+         y="627.90515"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Bar Harbor</tspan><tspan
          id="tspan2402-1-4"
          sodipodi:role="line"
-         x="9591.8623"
-         y="1386.2385"
+         x="9554.3623"
+         y="711.23853"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Duck Brook</tspan></text>
     <text
        id="text986-4-7-8-9-8-2-3-35-0-0-7-3"
-       y="1600.8138"
-       x="11091.861"
+       y="925.81384"
+       x="11054.361"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
-         y="1600.8138"
-         x="11091.861"
+         y="925.81384"
+         x="11054.361"
          sodipodi:role="line"
          id="tspan2404-1-6-5">Eagle Lake</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
-         y="1684.1472"
-         x="11091.861"
+         y="1009.1472"
+         x="11054.361"
          sodipodi:role="line"
          id="tspan2402-1-4-8">Witch Hole</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
-       x="11283.757"
-       y="1032.0718"
+       x="11246.257"
+       y="357.07178"
        id="text986-4-7-8-9-8-2-3-35-0-0-7-3-2"><tspan
          id="tspan2402-1-4-8-5"
          sodipodi:role="line"
-         x="11283.757"
-         y="1032.0718"
+         x="11246.257"
+         y="357.07178"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Witch Hole</tspan><tspan
          id="tspan2552"
          sodipodi:role="line"
-         x="11283.757"
-         y="1115.4052"
+         x="11246.257"
+         y="440.40518"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Hulls Cove</tspan><tspan
          id="tspan2554"
          sodipodi:role="line"
-         x="11283.757"
-         y="1198.7385"
+         x="11246.257"
+         y="523.73859"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Paradise Hill</tspan></text>
     <text
        id="text986-4-7-8-9-8-2-3-35-0-0-7-3-2-4"
-       y="513.31384"
-       x="11433.757"
+       y="-161.68616"
+       x="11396.257"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125"
-         y="513.31384"
-         x="11433.757"
+         y="-161.68616"
+         x="11396.257"
          sodipodi:role="line"
          id="tspan2402-1-4-8-5-5">Bar Harbor</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125"
-         y="596.64722"
-         x="11433.757"
+         y="-78.35276"
+         x="11396.257"
          sodipodi:role="line"
          id="tspan2552-5">Eagle Lake</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125"
-         y="679.98065"
-         x="11433.757"
+         y="4.9806366"
+         x="11396.257"
          sodipodi:role="line"
          id="tspan2554-2">Duck Brook</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
-       x="11279.362"
-       y="65.405212"
+       x="11241.862"
+       y="-609.59479"
        id="text986-4-7-8-9-8-2-3-35-0-0-7-3-2-4-8"><tspan
          id="tspan2402-1-4-8-5-5-2"
          sodipodi:role="line"
-         x="11279.362"
-         y="65.405212"
+         x="11241.862"
+         y="-609.59479"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Paradise Hill</tspan><tspan
          id="tspan2554-2-0"
          sodipodi:role="line"
-         x="11279.362"
-         y="148.73862"
+         x="11241.862"
+         y="-526.26141"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Hulls Cove</tspan></text>
     <text
        id="text986-4-7-8-9-8-2-3-35-0-0-7-3-2-4-8-1"
-       y="327.90521"
-       x="11091.861"
+       y="-347.09479"
+       x="11054.361"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
-         y="327.90521"
-         x="11091.861"
+         y="-347.09479"
+         x="11054.361"
          sodipodi:role="line"
          id="tspan2402-1-4-8-5-5-2-5">Eagle Lake</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
-         y="411.23862"
-         x="11091.861"
+         y="-263.76138"
+         x="11054.361"
          sodipodi:role="line"
          id="tspan2554-2-0-1">Witch Hole</tspan></text>
     <text
        id="text986-4-7-8-9-8-2-3-35-0-0-7-3-2-4-8-2"
-       y="-461.68616"
-       x="9141.8613"
+       y="-1136.6862"
+       x="9104.3613"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
-         y="-461.68616"
-         x="9141.8613"
+         y="-1136.6862"
+         x="9104.3613"
          sodipodi:role="line"
          id="tspan2402-1-4-8-5-5-2-7">Visitor Ctr.</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
-         y="-378.35275"
-         x="9141.8613"
+         y="-1053.3528"
+         x="9104.3613"
          sodipodi:role="line"
          id="tspan2554-2-0-2">Hulls Cove</tspan></text>
     <text
        id="text986-4-7-8-9-8-2-3-35-0-0-7-3-2-4-8-7"
-       y="-955.42816"
-       x="9441.8623"
+       y="-1630.4282"
+       x="9404.3623"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125"
-         y="-955.42816"
-         x="9441.8623"
+         y="-1630.4282"
+         x="9404.3623"
          sodipodi:role="line"
          id="tspan2402-1-4-8-5-5-2-70">Bar Harbor</tspan><tspan
          id="tspan2671"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125"
-         y="-872.09479"
-         x="9441.8623"
+         y="-1547.0948"
+         x="9404.3623"
          sodipodi:role="line">Duck Brook</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125"
-         y="-788.76135"
-         x="9441.8623"
+         y="-1463.7615"
+         x="9404.3623"
          sodipodi:role="line"
          id="tspan2554-2-0-26">Paradise Hill</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
-       x="9933.3008"
-       y="-236.68616"
+       x="9895.8008"
+       y="-911.68616"
        id="text986-4-7-8-9-8-2-3-35-0-0-7-3-2-4-8-1-7"><tspan
          id="tspan2402-1-4-8-5-5-2-5-9"
          sodipodi:role="line"
-         x="9933.3008"
-         y="-236.68616"
+         x="9895.8008"
+         y="-911.68616"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125">Eagle Lake</tspan><tspan
          id="tspan2554-2-0-1-1"
          sodipodi:role="line"
-         x="9933.3008"
-         y="-153.35275"
+         x="9895.8008"
+         y="-828.35278"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125">Witch Hole</tspan></text>
     <text
        id="text986-4-7-8-9-8-2-3-35-0-0-7-3-2-4-8-70"
-       y="215.40521"
-       x="9416.5693"
+       y="-459.59479"
+       x="9379.0693"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
-         y="215.40521"
-         x="9416.5693"
+         y="-459.59479"
+         x="9379.0693"
          sodipodi:role="line"
          id="tspan2402-1-4-8-5-5-2-2">Paradise Hill</tspan><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
-         y="298.73862"
-         x="9416.5693"
+         y="-376.26138"
+         x="9379.0693"
          sodipodi:role="line"
          id="tspan2554-2-0-8">Hulls Cove</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
-       x="9591.8623"
-       y="244.57181"
+       x="9554.3623"
+       y="-430.42819"
        id="text986-4-7-8-9-8-2-3-35-0-0-7-3-2-4-0"><tspan
          id="tspan2402-1-4-8-5-5-9"
          sodipodi:role="line"
-         x="9591.8623"
-         y="244.57181"
+         x="9554.3623"
+         y="-430.42819"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Paradise Hill</tspan><tspan
          id="tspan2552-5-7"
          sodipodi:role="line"
-         x="9591.8623"
-         y="327.90521"
+         x="9554.3623"
+         y="-347.09479"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Bar Harbor</tspan><tspan
          id="tspan2554-2-9"
          sodipodi:role="line"
-         x="9591.8623"
-         y="411.23859"
+         x="9554.3623"
+         y="-263.76141"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Duck Brook</tspan></text>
     <text
        id="text986-4-7-8-9-8-2-3-35-0-0-7-3-2-4-8-1-7-4"
-       y="663.31384"
-       x="9416.5693"
+       y="-11.686159"
+       x="9379.0693"
        style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;display:inline;opacity:1;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125;stop-opacity:1"
        xml:space="preserve"><tspan
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
-         y="663.31384"
-         x="9416.5693"
+         y="-11.686159"
+         x="9379.0693"
          sodipodi:role="line"
          id="tspan2554-2-0-1-1-2">Eagle Lake</tspan></text>
     <text
@@ -1470,7 +1559,7 @@
      inkscape:label="intersection"
      id="layer3"
      inkscape:groupmode="layer"
-     transform="translate(2840.33,1058.8388)">
+     transform="translate(2840.33,1733.8388)">
     <path
        style="display:inline;opacity:1;fill:none;stroke:#000000;stroke-width:25;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;stop-opacity:1"
        d="M 8250,4650 V 5700"
@@ -2763,7 +2852,7 @@
          x="12786.442"
          sodipodi:role="line">Day Mountain</tspan></text>
     <g
-       transform="translate(5700,-2100)"
+       transform="translate(5662.5,-2775)"
        style="display:inline;opacity:1;stop-opacity:1"
        id="g1106-4-2">
       <g
@@ -2792,7 +2881,7 @@
     <g
        id="g1106-4-2-3"
        style="display:inline;opacity:1;stop-opacity:1"
-       transform="translate(5700,-3000)">
+       transform="translate(5662.5,-3675)">
       <g
          id="g2066-3-8">
         <g
@@ -2822,7 +2911,7 @@
     <g
        style="opacity:1;stop-opacity:1"
        id="g1367"
-       transform="translate(7500,-2100)">
+       transform="translate(7462.5,-2775)">
       <g
          id="g2384">
         <circle
@@ -2845,7 +2934,7 @@
     </g>
     <g
        id="g2446"
-       transform="translate(900,-150)">
+       transform="translate(862.49998,-825)">
       <circle
          r="80.716202"
          cy="450"
@@ -2864,7 +2953,7 @@
              style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-align:center;text-anchor:middle">3</tspan></tspan></text>
     </g>
     <g
-       transform="translate(-150)"
+       transform="translate(-187.50002,-675)"
        id="g2481">
       <circle
          r="80.716202"
@@ -3121,7 +3210,7 @@
      id="layer1"
      inkscape:groupmode="layer"
      inkscape:label="Layer 1"
-     transform="translate(2840.33,1058.8388)">
+     transform="translate(2840.33,1733.8388)">
     <circle
        r="6.3499999"
        cy="95.25"
