@@ -26,10 +26,10 @@
      inkscape:pagecheckerboard="0"
      inkscape:blackoutopacity="0.0"
      inkscape:document-units="mm"
-     showgrid="true"
-     inkscape:zoom="0.86772068"
-     inkscape:cx="-338.81871"
-     inkscape:cy="368.78227"
+     showgrid="false"
+     inkscape:zoom="0.29857056"
+     inkscape:cx="97.12947"
+     inkscape:cy="-1487.0857"
      inkscape:window-width="1536"
      inkscape:window-height="811"
      inkscape:window-x="-8"
@@ -38,7 +38,7 @@
      inkscape:current-layer="g1292"
      inkscape:showpageshadow="0"
      inkscape:deskcolor="#ffffff"
-     showguides="true"
+     showguides="false"
      showborder="false">
     <inkscape:grid
        type="xygrid"
@@ -58,6 +58,56 @@
        position="-58.937434,199.89581"
        orientation="0,-1"
        id="guide21636"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-32.004009,249.10061"
+       orientation="1,0"
+       id="guide45146"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-6.6040074,237.99581"
+       orientation="0,-1"
+       id="guide45486"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-19.304008,250.6958"
+       orientation="1,0"
+       id="guide45488"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-44.704009,281.0684"
+       orientation="1,0"
+       id="guide46896"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-0.25400735,314.19581"
+       orientation="0,-1"
+       id="guide47265"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-63.75401,326.89581"
+       orientation="0,-1"
+       id="guide47639"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-120.90401,364.99581"
+       orientation="1,0"
+       id="guide48019"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-197.10402,364.99581"
+       orientation="1,0"
+       id="guide49102"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-184.40402,320.54581"
+       orientation="1,0"
+       id="guide50526"
+       inkscape:locked="false" />
+    <sodipodi:guide
+       position="-209.80402,288.7958"
+       orientation="1,0"
+       id="guide51987"
        inkscape:locked="false" />
   </sodipodi:namedview>
   <defs
@@ -389,26 +439,6 @@
        miter_limit="100"
        attempt_force_join="true"
        update_on_knot_move="true" />
-    <marker
-       style="overflow:visible"
-       id="TriangleStart-5"
-       refX="0"
-       refY="0"
-       orient="auto-start-reverse"
-       inkscape:stockid="TriangleStart"
-       markerWidth="50"
-       markerHeight="70"
-       viewBox="0 0 5.3244081 6.1553851"
-       inkscape:isstock="true"
-       inkscape:collect="always"
-       preserveAspectRatio="none"
-       markerUnits="userSpaceOnUse">
-      <path
-         transform="scale(0.5)"
-         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
-         d="M 5.77,0 -2.88,5 V -5 Z"
-         id="path135-8" />
-    </marker>
     <marker
        style="overflow:visible"
        id="TriangleStart-5-1"
@@ -869,6 +899,166 @@
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1" />
     </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-5-1-3-3-8-1-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="50"
+       markerHeight="70"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-2-3-0-9-1-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-5-1-3-3-8-1-4-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="50"
+       markerHeight="70"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-2-3-0-9-1-7-9" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-5-1-3-3-8-1-4-4"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="50"
+       markerHeight="70"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-2-3-0-9-1-7-90" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-5-1-3-3-8-1-1"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="50"
+       markerHeight="70"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-2-3-0-9-1-3" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-5-1-3-3-8-1-1-8"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="50"
+       markerHeight="70"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-2-3-0-9-1-3-5" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-5-1-3-3-8-1-4-7"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="50"
+       markerHeight="70"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-2-3-0-9-1-7-6" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-5-1-3-3-8-1-1-8-0"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="50"
+       markerHeight="70"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-2-3-0-9-1-3-5-7" />
+    </marker>
+    <marker
+       style="overflow:visible"
+       id="TriangleStart-5-1-3-3-8-1-1-8-3"
+       refX="0"
+       refY="0"
+       orient="auto-start-reverse"
+       inkscape:stockid="TriangleStart"
+       markerWidth="50"
+       markerHeight="70"
+       viewBox="0 0 5.3244081 6.1553851"
+       inkscape:isstock="true"
+       inkscape:collect="always"
+       preserveAspectRatio="none"
+       markerUnits="userSpaceOnUse">
+      <path
+         transform="scale(0.5)"
+         style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
+         d="M 5.77,0 -2.88,5 V -5 Z"
+         id="path135-8-2-3-0-9-1-3-5-8" />
+    </marker>
   </defs>
   <g
      inkscape:label="Layer 1"
@@ -903,11 +1093,21 @@
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="cc" />
       <path
+         style="display:inline;fill:none;stroke:#afafaf;stroke-width:23.4375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-8-1-1-8-3)"
+         d="m 11952.832,10508.661 h -150 c -70.711,0 -150,79.289 -150,150 l 0,225"
+         id="path2312-5-7-8-9-9-5-0-9-1-1"
+         sodipodi:nodetypes="cssc" />
+      <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 11952.832,10508.661 c 0,0 -150,-10.355 -150,150 v 1650"
          id="path1156-6-4-0-9"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="csc" />
+      <path
+         style="display:inline;fill:none;stroke:#afafaf;stroke-width:23.4375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-8-1-1-8-0)"
+         d="m 11952.832,10508.661 0,300 c 0,70.711 79.289,150 150,150 h 750"
+         id="path2312-5-7-8-9-9-5-0-9-1-5"
+         sodipodi:nodetypes="cssc" />
       <path
          style="display:inline;fill:none;stroke:#000000;stroke-width:50;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
          d="m 11952.832,10508.661 c 0,120.71 126.492,300 300,300 h 1350 c 70.711,0 150,79.289 150,150 v 150"
@@ -1321,9 +1521,9 @@
          xml:space="preserve"><tspan
            x="12335.01"
            y="6639.0413"
-           id="tspan26034"><tspan
+           id="tspan54354"><tspan
              style="font-style:italic;font-weight:500;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';text-anchor:middle;opacity:0.499"
-             id="tspan26032">Park Loop Road</tspan></tspan></text>
+             id="tspan54352">Park Loop Road</tspan></tspan></text>
       <path
          sodipodi:nodetypes="ccc"
          inkscape:connector-curvature="0"
@@ -1337,7 +1537,7 @@
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:133.333px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;shape-inside:url(#rect5555);shape-padding:0;shape-margin:0;inline-size:0;display:inline;opacity:0.499;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.32;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"><tspan
            x="12564.193"
            y="6646.6437"
-           id="tspan26036">Route 3</tspan></text>
+           id="tspan54356">Route 3</tspan></text>
       <text
          transform="translate(-12084.442,4731.9224)"
          style="font-style:italic;font-variant:normal;font-weight:500;font-stretch:normal;font-size:133.333px;line-height:1.25;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';font-variant-ligatures:normal;font-variant-position:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-alternates:normal;font-variant-east-asian:normal;font-feature-settings:normal;font-variation-settings:normal;text-indent:0;text-align:center;text-decoration:none;text-decoration-line:none;text-decoration-style:solid;text-decoration-color:#000000;letter-spacing:normal;word-spacing:normal;text-transform:none;writing-mode:lr-tb;direction:ltr;text-orientation:mixed;dominant-baseline:auto;baseline-shift:baseline;white-space:normal;shape-inside:url(#rect5555);shape-padding:0;shape-margin:0;inline-size:0;display:inline;opacity:0.499;vector-effect:none;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.1024;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;stop-color:#000000"
@@ -1345,10 +1545,10 @@
          xml:space="preserve"><tspan
            x="12141.473"
            y="6646.6437"
-           id="tspan26038">Route 3 / Route 198</tspan></text>
+           id="tspan54358">Route 3 / Route 198</tspan></text>
       <path
          style="opacity:0.5;fill:none;stroke:#000000;stroke-width:37.5;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
-         d="m 17824.242,11830.058 h 4800"
+         d="m 15140.33,11850.991 h 4800"
          id="path1545" />
       <text
          transform="rotate(0.08466479,-3429398.7,3665929)"
@@ -1357,9 +1557,9 @@
          xml:space="preserve"><tspan
            x="12335.01"
            y="6639.0413"
-           id="tspan26042"><tspan
+           id="tspan54362"><tspan
              style="font-style:italic;font-weight:500;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';text-anchor:middle;opacity:0.499"
-             id="tspan26040">Park Loop Road</tspan></tspan></text>
+             id="tspan54360">Park Loop Road</tspan></tspan></text>
       <text
          transform="rotate(-89.915335,16990.029,8561.2911)"
          style="font-style:normal;font-weight:normal;font-size:125px;line-height:1.25;font-family:sans-serif;text-align:center;shape-inside:url(#rect5555-4-8);display:inline;opacity:0.501355;fill:#000000;fill-opacity:1;stroke:none"
@@ -1367,9 +1567,9 @@
          xml:space="preserve"><tspan
            x="12205.371"
            y="6639.0413"
-           id="tspan26046"><tspan
+           id="tspan54366"><tspan
              style="font-style:italic;font-weight:500;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';text-anchor:middle;opacity:0.499"
-             id="tspan26044">Stanley Brook Road</tspan></tspan></text>
+             id="tspan54364">Stanley Brook Road</tspan></tspan></text>
       <path
          sodipodi:nodetypes="cc"
          inkscape:connector-curvature="0"
@@ -1401,9 +1601,9 @@
          xml:space="preserve"><tspan
            x="12306.659"
            y="6639.0413"
-           id="tspan26050"><tspan
+           id="tspan54370"><tspan
              style="font-style:italic;font-weight:500;font-family:Futura;-inkscape-font-specification:'Futura Medium Italic';text-anchor:middle;opacity:0.499"
-             id="tspan26048">Eagle Lake Road</tspan></tspan></text>
+             id="tspan54368">Eagle Lake Road</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
@@ -1774,11 +1974,11 @@
            sodipodi:role="line"
            x="16559.082"
            y="12495.796"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125">Redfield Hill</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125">Redfield Hill</tspan><tspan
            sodipodi:role="line"
            x="16559.082"
            y="12579.693"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
            id="tspan1198-6-7">Day Mountain Summit</tspan></text>
       <text
          id="text986-8-5-2-6-37-0-5-7-7-0-5-1-4"
@@ -2171,13 +2371,43 @@
          sodipodi:nodetypes="cssc" />
       <path
          style="display:inline;fill:none;stroke:#afafaf;stroke-width:23.4375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-8)"
-         d="m 13452.832,12758.661 -75,-75 c -39.528,-39.528 -94.098,-75 -150,-75 l -750,0"
+         d="m 5526.1744,14954.308 -75,-75 c -39.528,-39.528 -94.098,-75 -150,-75 h -750"
          id="path2312-5-7-8-9-9-5"
          sodipodi:nodetypes="cssc" />
       <path
          style="display:inline;fill:none;stroke:#afafaf;stroke-width:23.4375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-8-1)"
          d="m 13752.832,12308.661 -75,-75 c -39.528,-39.528 -94.098,-75 -150,-75 h -750"
          id="path2312-5-7-8-9-9-5-0"
+         sodipodi:nodetypes="cssc" />
+      <path
+         style="display:inline;fill:none;stroke:#afafaf;stroke-width:23.4375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-8-1-1)"
+         d="m 13752.832,10958.661 75,-75 c 39.528,-39.528 94.098,-75 150,-75 h 750"
+         id="path2312-5-7-8-9-9-5-0-9"
+         sodipodi:nodetypes="cssc" />
+      <path
+         style="display:inline;fill:none;stroke:#afafaf;stroke-width:23.4375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-8-1-1-8)"
+         d="m 13752.832,10958.661 v -150 c 0,-70.711 -79.289,-150 -150,-150 l -825,0"
+         id="path2312-5-7-8-9-9-5-0-9-1"
+         sodipodi:nodetypes="cssc" />
+      <path
+         style="display:inline;fill:none;stroke:#afafaf;stroke-width:23.4375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-8-1-4)"
+         d="m 13752.832,12308.661 75,-75 c 39.528,-39.528 75,-94.098 75,-150 l 0,-300"
+         id="path2312-5-7-8-9-9-5-0-4"
+         sodipodi:nodetypes="cssc" />
+      <path
+         style="display:inline;fill:none;stroke:#afafaf;stroke-width:23.4375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-8-1-4-7)"
+         d="m 11952.832,10508.661 -75,-75 c -39.528,-39.528 -75,-94.098 -75,-150 v -299.9998"
+         id="path2312-5-7-8-9-9-5-0-4-5"
+         sodipodi:nodetypes="cssc" />
+      <path
+         style="display:inline;fill:none;stroke:#afafaf;stroke-width:23.4375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-8-1-4-4)"
+         d="m 13744.546,10966.948 -75,75 c -39.528,39.528 -75,94.098 -75,150 v 300"
+         id="path2312-5-7-8-9-9-5-0-4-0"
+         sodipodi:nodetypes="cssc" />
+      <path
+         style="display:inline;fill:none;stroke:#afafaf;stroke-width:23.4375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-8-1-4-1)"
+         d="m 13752.832,12308.661 75,75 c 39.528,39.528 75,94.098 75,150 v 300"
+         id="path2312-5-7-8-9-9-5-0-4-1"
          sodipodi:nodetypes="cssc" />
       <path
          sodipodi:nodetypes="cssssc"
@@ -2316,9 +2546,9 @@
              xml:space="preserve"><tspan
                x="800.97559"
                y="1778.733"
-               id="tspan26054"><tspan
+               id="tspan54374"><tspan
                  style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                 id="tspan26052">10</tspan></tspan></text>
+                 id="tspan54372">10</tspan></tspan></text>
           <text
              xml:space="preserve"
              style="font-style:normal;font-weight:normal;font-size:58.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
@@ -2351,9 +2581,9 @@
            xml:space="preserve"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26058"><tspan
+             id="tspan54378"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26056">10</tspan></tspan></text>
+               id="tspan54376">10</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:58.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
@@ -2385,9 +2615,9 @@
            y="0"><tspan
              x="803.73438"
              y="1778.733"
-             id="tspan26062"><tspan
+             id="tspan54382"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26060">11</tspan></tspan></text>
+               id="tspan54380">11</tspan></tspan></text>
       </g>
       <g
          style="display:inline"
@@ -2408,9 +2638,9 @@
            xml:space="preserve"><tspan
              x="828.7832"
              y="1778.733"
-             id="tspan26066"><tspan
+             id="tspan54386"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26064">8</tspan></tspan></text>
+               id="tspan54384">8</tspan></tspan></text>
       </g>
       <g
          transform="translate(8202.8322,1658.6614)"
@@ -2431,9 +2661,9 @@
            y="0"><tspan
              x="828.7832"
              y="1778.733"
-             id="tspan26070"><tspan
+             id="tspan54390"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26068">9</tspan></tspan></text>
+               id="tspan54388">9</tspan></tspan></text>
       </g>
       <path
          style="display:inline;fill:none;stroke:#afafaf;stroke-width:23.4375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-7)"
@@ -2468,9 +2698,9 @@
            xml:space="preserve"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26074"><tspan
+             id="tspan54394"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26072">12</tspan></tspan></text>
+               id="tspan54392">12</tspan></tspan></text>
       </g>
       <g
          id="g1214"
@@ -2490,9 +2720,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26078"><tspan
+             id="tspan54398"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26076">13</tspan></tspan></text>
+               id="tspan54396">13</tspan></tspan></text>
       </g>
       <g
          id="g1336"
@@ -2512,9 +2742,9 @@
            xml:space="preserve"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26082"><tspan
+             id="tspan54402"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26080">19</tspan></tspan></text>
+               id="tspan54400">19</tspan></tspan></text>
       </g>
       <g
          id="g1375"
@@ -2534,9 +2764,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26086"><tspan
+             id="tspan54406"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26084">18</tspan></tspan></text>
+               id="tspan54404">18</tspan></tspan></text>
       </g>
       <g
          transform="translate(2802.8324,3908.6611)"
@@ -2556,9 +2786,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26090"><tspan
+             id="tspan54410"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26088">20</tspan></tspan></text>
+               id="tspan54408">20</tspan></tspan></text>
       </g>
       <path
          style="display:inline;fill:none;stroke:#afafaf;stroke-width:23.4375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-2-9-0-67-5-4-5)"
@@ -2583,9 +2813,9 @@
            xml:space="preserve"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26094"><tspan
+             id="tspan54414"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26092">21</tspan></tspan></text>
+               id="tspan54412">21</tspan></tspan></text>
       </g>
       <g
          id="g1954"
@@ -2605,9 +2835,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26098"><tspan
+             id="tspan54418"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26096">22</tspan></tspan></text>
+               id="tspan54416">22</tspan></tspan></text>
       </g>
       <g
          transform="translate(2802.8322,1808.6612)"
@@ -2627,9 +2857,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26102"><tspan
+             id="tspan54422"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26100">14</tspan></tspan></text>
+               id="tspan54420">14</tspan></tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -2712,9 +2942,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26106"><tspan
+             id="tspan54426"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26104">15</tspan></tspan></text>
+               id="tspan54424">15</tspan></tspan></text>
       </g>
       <text
          xml:space="preserve"
@@ -2732,22 +2962,6 @@
            x="11997.949"
            y="10035.884"
            style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Seal Harbor</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
-         x="11963.291"
-         y="10339.828"
-         id="text986-8-5-2-6-37-0-5-7"><tspan
-           sodipodi:role="line"
-           x="11963.291"
-           y="10339.828"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;stroke-width:3.125"
-           id="tspan1777-0-8-1-8-7">Bar Harbor</tspan><tspan
-           id="tspan1839-53-5-4-5"
-           sodipodi:role="line"
-           x="11963.291"
-           y="10423.161"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Amphitheater</tspan></text>
       <g
          id="g504"
          transform="translate(2802.8322,2558.6611)">
@@ -2766,9 +2980,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26110"><tspan
+             id="tspan54430"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26108">23</tspan></tspan></text>
+               id="tspan54428">23</tspan></tspan></text>
       </g>
       <g
          id="g601"
@@ -2788,9 +3002,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26114"><tspan
+             id="tspan54434"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26112">16</tspan></tspan></text>
+               id="tspan54432">16</tspan></tspan></text>
       </g>
       <g
          id="g656"
@@ -2810,74 +3024,10 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26118"><tspan
+             id="tspan54438"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26116">25</tspan></tspan></text>
+               id="tspan54436">25</tspan></tspan></text>
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
-         x="11135.203"
-         y="10694.951"
-         id="text986-8-5-2-6-37-0-5-7-5"><tspan
-           id="tspan1839-53-5-4-5-3"
-           sodipodi:role="line"
-           x="11135.203"
-           y="10694.951"
-           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Jordan Stream</tspan></text>
-      <text
-         id="text986-8-5-2-6-3-9-4"
-         y="10961.328"
-         x="12090.649"
-         style="font-style:normal;font-weight:normal;font-size:83.3333px;line-height:1;font-family:sans-serif;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
-         xml:space="preserve"><tspan
-           id="tspan1643-0-5-0-8"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;stroke-width:3.125"
-           y="10961.328"
-           x="12090.649"
-           sodipodi:role="line">Seal Harbor</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;stroke-width:3.125"
-           y="11045.225"
-           x="12090.649"
-           sodipodi:role="line"
-           id="tspan2071-2">Long Pond</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125"
-           y="11129.122"
-           x="12090.649"
-           sodipodi:role="line"
-           id="tspan1839-5-4-6">Park Loop Road</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:83.3333px;line-height:1;font-family:sans-serif;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
-         x="13053.072"
-         y="10632.23"
-         id="text986-8-5-2-6-37-0-5-7-7"><tspan
-           sodipodi:role="line"
-           x="13053.072"
-           y="10632.23"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;stroke-width:3.125"
-           id="tspan1777-0-8-1-8-7-7">Jordan Stream</tspan><tspan
-           id="tspan1839-53-5-4-5-9"
-           sodipodi:role="line"
-           x="13053.072"
-           y="10716.127"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Amphitheater</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:83.3333px;line-height:1;font-family:sans-serif;text-align:end;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
-         x="13695.572"
-         y="11158.655"
-         id="text986-8-5-2-6-37-0-5-7-7-7"><tspan
-           sodipodi:role="line"
-           x="13695.572"
-           y="11158.655"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;stroke-width:3.125"
-           id="tspan1777-0-8-1-8-7-7-5">Long Pond</tspan><tspan
-           id="tspan1839-53-5-4-5-9-0"
-           sodipodi:role="line"
-           x="13695.572"
-           y="11242.552"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125">Mitchell Hill</tspan></text>
       <g
          id="g1017"
          transform="translate(2802.8321,1658.6611)">
@@ -2896,42 +3046,10 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26122"><tspan
+             id="tspan54442"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26120">26</tspan></tspan></text>
+               id="tspan54440">26</tspan></tspan></text>
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:83.3333px;line-height:1;font-family:sans-serif;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
-         x="13821.832"
-         y="12565.985"
-         id="text986-8-5-2-6-37-0-5-7-7-7-4"><tspan
-           sodipodi:role="line"
-           x="13821.832"
-           y="12565.985"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;stroke-width:3.125"
-           id="tspan1777-0-8-1-8-7-7-5-5">Seal Harbor</tspan><tspan
-           id="tspan1839-53-5-4-5-9-0-78"
-           sodipodi:role="line"
-           x="13821.832"
-           y="12649.882"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Day Mountain</tspan></text>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:83.3333px;line-height:1;font-family:sans-serif;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
-         x="13836.01"
-         y="12102.165"
-         id="text986-8-5-2-6-37-0-5-7-7-7-4-3"><tspan
-           sodipodi:role="line"
-           x="13836.01"
-           y="12102.165"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;stroke-width:3.125"
-           id="tspan1777-0-8-1-8-7-7-5-5-1">Eagle Lake</tspan><tspan
-           id="tspan1839-53-5-4-5-9-0-78-8"
-           sodipodi:role="line"
-           x="13836.01"
-           y="12186.062"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Jordan Pond House</tspan></text>
       <g
          transform="translate(3702.832,1658.6612)"
          id="g1168">
@@ -2950,31 +3068,10 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26126"><tspan
+             id="tspan54446"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26124">17</tspan></tspan></text>
+               id="tspan54444">17</tspan></tspan></text>
       </g>
-      <text
-         xml:space="preserve"
-         style="font-style:normal;font-weight:normal;font-size:83.3333px;line-height:1;font-family:sans-serif;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
-         x="13887.126"
-         y="10692.5"
-         id="text986-8-5-2-6-37-0-5-7-7-0"><tspan
-           sodipodi:role="line"
-           x="13887.126"
-           y="10692.5"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;stroke-width:3.125"
-           id="tspan1777-0-8-1-8-7-7-2">Seal Harbor</tspan><tspan
-           id="tspan1839-53-5-4-5-9-03"
-           sodipodi:role="line"
-           x="13887.126"
-           y="10776.396"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Bubble Pond</tspan><tspan
-           sodipodi:role="line"
-           x="13887.126"
-           y="10860.294"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125"
-           id="tspan1252">Day Mountain</tspan></text>
       <g
          style="display:inline"
          transform="translate(6402.832,1658.6611)"
@@ -2996,9 +3093,9 @@
              y="0"><tspan
                x="800.97559"
                y="1778.733"
-               id="tspan26130"><tspan
+               id="tspan54450"><tspan
                  style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                 id="tspan26128">37</tspan></tspan></text>
+                 id="tspan54448">37</tspan></tspan></text>
         </g>
       </g>
       <text
@@ -3049,13 +3146,13 @@
            y="11205.473"
            x="16269.165"
            sodipodi:role="line">N.E. Harbor</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
            y="11289.37"
            x="16269.165"
            sodipodi:role="line"
            id="tspan1839-53-5-4-5-9-03-8">Seal Harbor</tspan><tspan
            id="tspan1198-1"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
            y="11373.267"
            x="16269.165"
            sodipodi:role="line">Jordan Pond</tspan></text>
@@ -3080,9 +3177,9 @@
              xml:space="preserve"><tspan
                x="828.7832"
                y="1778.733"
-               id="tspan26134"><tspan
+               id="tspan54454"><tspan
                  style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                 id="tspan26132">7</tspan></tspan></text>
+                 id="tspan54452">7</tspan></tspan></text>
         </g>
       </g>
       <g
@@ -3106,9 +3203,9 @@
              y="0"><tspan
                x="828.7832"
                y="1778.733"
-               id="tspan26138"><tspan
+               id="tspan54458"><tspan
                  style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                 id="tspan26136">6</tspan></tspan></text>
+                 id="tspan54456">6</tspan></tspan></text>
         </g>
       </g>
       <g
@@ -3134,9 +3231,9 @@
                y="0"><tspan
                  x="800.97559"
                  y="1778.733"
-                 id="tspan26142"><tspan
+                 id="tspan54462"><tspan
                    style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                   id="tspan26140">36</tspan></tspan></text>
+                   id="tspan54460">36</tspan></tspan></text>
           </g>
         </g>
       </g>
@@ -3163,9 +3260,9 @@
                xml:space="preserve"><tspan
                  x="800.97559"
                  y="1778.733"
-                 id="tspan26146"><tspan
+                 id="tspan54466"><tspan
                    style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                   id="tspan26144">38</tspan></tspan></text>
+                   id="tspan54464">38</tspan></tspan></text>
           </g>
         </g>
       </g>
@@ -3178,13 +3275,13 @@
            sodipodi:role="line"
            x="16247.749"
            y="15221.921"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
            id="tspan1198-6-7-4-7">Day Mountain</tspan><tspan
            id="tspan2751"
            sodipodi:role="line"
            x="16247.749"
            y="15305.818"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125">Summit</tspan></text>
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125">Summit</tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:83.3334px;line-height:1;font-family:sans-serif;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
@@ -3212,17 +3309,17 @@
          x="16181.665"
          style="font-style:normal;font-weight:normal;font-size:83.3334px;line-height:1;font-family:sans-serif;text-align:end;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
            y="15592.973"
            x="16181.665"
            sodipodi:role="line"
            id="tspan1839-53-5-4-5-9-03-6-4-8-9-6">Seal Harbor</tspan><tspan
            id="tspan2800"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
            y="15676.87"
            x="16181.665"
            sodipodi:role="line">Around Mtn.</tspan><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
            y="15760.767"
            x="16181.665"
            sodipodi:role="line"
@@ -3233,13 +3330,13 @@
          x="15440.086"
          style="font-style:normal;font-weight:normal;font-size:83.3334px;line-height:1;font-family:sans-serif;text-align:end;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
          xml:space="preserve"><tspan
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
            y="14284.652"
            x="15440.086"
            sodipodi:role="line"
            id="tspan2751-2">Seal Harbor</tspan><tspan
            id="tspan2842"
-           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3334px;font-family:Montserrat;-inkscape-font-specification:'Montserrat Light';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125"
            y="14368.55"
            x="15440.086"
            sodipodi:role="line">Jordan Pond</tspan></text>
@@ -3298,9 +3395,9 @@
                y="0"><tspan
                  x="828.7832"
                  y="1778.733"
-                 id="tspan26150"><tspan
+                 id="tspan54470"><tspan
                    style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                   id="tspan26148">4</tspan></tspan></text>
+                   id="tspan54468">4</tspan></tspan></text>
           </g>
         </g>
       </g>
@@ -3329,9 +3426,9 @@
                  y="0"><tspan
                    x="828.7832"
                    y="1778.733"
-                   id="tspan26154"><tspan
+                   id="tspan54474"><tspan
                      style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                     id="tspan26152">2</tspan></tspan></text>
+                     id="tspan54472">2</tspan></tspan></text>
             </g>
           </g>
         </g>
@@ -3356,9 +3453,9 @@
              xml:space="preserve"><tspan
                x="828.7832"
                y="1778.733"
-               id="tspan26158"><tspan
+               id="tspan54478"><tspan
                  style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                 id="tspan26156">5</tspan></tspan></text>
+                 id="tspan54476">5</tspan></tspan></text>
         </g>
       </g>
       <g
@@ -3379,9 +3476,9 @@
            xml:space="preserve"><tspan
              x="828.7832"
              y="1778.733"
-             id="tspan26162"><tspan
+             id="tspan54482"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26160">3</tspan></tspan></text>
+               id="tspan54480">3</tspan></tspan></text>
       </g>
       <g
          transform="translate(2652.8324,1058.6615)"
@@ -3401,9 +3498,9 @@
            xml:space="preserve"><tspan
              x="828.7832"
              y="1778.733"
-             id="tspan26166"><tspan
+             id="tspan54486"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26164">1</tspan></tspan></text>
+               id="tspan54484">1</tspan></tspan></text>
       </g>
       <g
          id="g2874"
@@ -3423,9 +3520,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26170"><tspan
+             id="tspan54490"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26168">24</tspan></tspan></text>
+               id="tspan54488">24</tspan></tspan></text>
       </g>
       <g
          id="g2913"
@@ -3445,9 +3542,9 @@
            xml:space="preserve"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26174"><tspan
+             id="tspan54494"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26172">32</tspan></tspan></text>
+               id="tspan54492">32</tspan></tspan></text>
       </g>
       <g
          id="g2967"
@@ -3467,9 +3564,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26178"><tspan
+             id="tspan54498"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26176">33</tspan></tspan></text>
+               id="tspan54496">33</tspan></tspan></text>
       </g>
       <g
          id="g3021"
@@ -3489,9 +3586,9 @@
            xml:space="preserve"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26182"><tspan
+             id="tspan54502"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26180">34</tspan></tspan></text>
+               id="tspan54500">34</tspan></tspan></text>
       </g>
       <g
          id="g3075"
@@ -3511,9 +3608,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26186"><tspan
+             id="tspan54506"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26184">41</tspan></tspan></text>
+               id="tspan54504">41</tspan></tspan></text>
       </g>
       <g
          id="g3129"
@@ -3533,9 +3630,9 @@
            xml:space="preserve"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26190"><tspan
+             id="tspan54510"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26188">40</tspan></tspan></text>
+               id="tspan54508">40</tspan></tspan></text>
       </g>
       <g
          transform="translate(2802.8323,3458.6607)"
@@ -3556,9 +3653,9 @@
            xml:space="preserve"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26194"><tspan
+             id="tspan54514"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26192">41</tspan></tspan></text>
+               id="tspan54512">41</tspan></tspan></text>
       </g>
       <g
          transform="translate(4602.8322,758.66108)"
@@ -3578,9 +3675,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26198"><tspan
+             id="tspan54518"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26196">28</tspan></tspan></text>
+               id="tspan54516">28</tspan></tspan></text>
       </g>
       <g
          transform="translate(3702.8321,1658.6611)"
@@ -3600,9 +3697,9 @@
            xml:space="preserve"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26202"><tspan
+             id="tspan54522"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26200">30</tspan></tspan></text>
+               id="tspan54520">30</tspan></tspan></text>
       </g>
       <g
          id="g3371"
@@ -3625,9 +3722,9 @@
              y="0"><tspan
                x="800.97559"
                y="1778.733"
-               id="tspan26206"><tspan
+               id="tspan54526"><tspan
                  style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                 id="tspan26204">29</tspan></tspan></text>
+                 id="tspan54524">29</tspan></tspan></text>
         </g>
       </g>
       <g
@@ -3648,9 +3745,9 @@
            xml:space="preserve"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26210"><tspan
+             id="tspan54530"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26208">27</tspan></tspan></text>
+               id="tspan54528">27</tspan></tspan></text>
       </g>
       <g
          id="g3515"
@@ -3670,9 +3767,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan26214"><tspan
+             id="tspan54534"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan26212">31</tspan></tspan></text>
+               id="tspan54532">31</tspan></tspan></text>
       </g>
       <g
          style="display:inline"
@@ -3694,6 +3791,228 @@
          x="5933.9648"
          y="13377.528"
          ry="11.930057" />
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#afafaf;stroke-width:37.5;stroke-dasharray:none;stroke-dashoffset:36.2347;stroke-opacity:1;paint-order:stroke markers fill"
+         id="rect5167-0-3-35"
+         width="750.00012"
+         height="300.00037"
+         x="14202.832"
+         y="9308.6611"
+         ry="11.930057" />
+      <rect
+         style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#afafaf;stroke-width:37.5;stroke-dasharray:none;stroke-dashoffset:36.2347;stroke-opacity:1;paint-order:stroke markers fill"
+         id="rect5167-0-3-35-4"
+         width="750.00012"
+         height="300.00037"
+         x="12252.832"
+         y="8858.6611"
+         ry="11.930057" />
+      <g
+         id="g50524"
+         transform="translate(-675.00006,1574.9999)">
+        <rect
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#afafaf;stroke-width:37.5;stroke-dasharray:none;stroke-dashoffset:36.2347;stroke-opacity:1;paint-order:stroke markers fill"
+           id="rect5167-0-3-35-2"
+           width="750.00012"
+           height="300.00037"
+           x="12702.832"
+           y="9308.6611"
+           ry="11.930057" />
+        <text
+           id="text986-8-5-2-6-3-9-4"
+           y="9390.3584"
+           x="12776.355"
+           style="font-style:normal;font-weight:normal;font-size:83.3333px;line-height:1;font-family:sans-serif;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
+           xml:space="preserve"><tspan
+             id="tspan1643-0-5-0-8"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;stroke-width:3.125"
+             y="9390.3584"
+             x="12776.355"
+             sodipodi:role="line">Seal Harbor</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;stroke-width:3.125"
+             y="9482.0254"
+             x="12776.355"
+             sodipodi:role="line"
+             id="tspan2071-2">Long Pond</tspan><tspan
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125"
+             y="9573.6914"
+             x="12776.355"
+             sodipodi:role="line"
+             id="tspan1839-5-4-6">Park Loop Road</tspan></text>
+      </g>
+      <g
+         id="g49100"
+         transform="translate(-900.00005,7.3539426e-5)">
+        <rect
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#afafaf;stroke-width:37.5;stroke-dasharray:none;stroke-dashoffset:36.2347;stroke-opacity:1;paint-order:stroke markers fill"
+           id="rect5167-0-3-35-5"
+           width="750.00012"
+           height="300.00037"
+           x="12027.832"
+           y="10058.661"
+           ry="11.930057" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
+           x="12702.34"
+           y="10185.723"
+           id="text986-8-5-2-6-37-0-5-7"><tspan
+             sodipodi:role="line"
+             x="12702.34"
+             y="10185.723"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;stroke-width:3.125"
+             id="tspan1777-0-8-1-8-7">Bar Harbor</tspan><tspan
+             id="tspan1839-53-5-4-5"
+             sodipodi:role="line"
+             x="12702.34"
+             y="10277.39"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125">Amphitheater</tspan></text>
+      </g>
+      <g
+         id="g47637"
+         transform="translate(-74.99989,374.99995)">
+        <rect
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#afafaf;stroke-width:37.5;stroke-dasharray:none;stroke-dashoffset:36.2347;stroke-opacity:1;paint-order:stroke markers fill"
+           id="rect5167-0-3-15"
+           width="750.00012"
+           height="300.00037"
+           x="12927.832"
+           y="10058.661"
+           ry="11.930057" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:83.3333px;line-height:1;font-family:sans-serif;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
+           x="13602.34"
+           y="10186.192"
+           id="text986-8-5-2-6-37-0-5-7-7"><tspan
+             sodipodi:role="line"
+             x="13602.34"
+             y="10186.192"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;stroke-width:3.125"
+             id="tspan1777-0-8-1-8-7-7">Jordan Stream</tspan><tspan
+             id="tspan1839-53-5-4-5-9"
+             sodipodi:role="line"
+             x="13602.34"
+             y="10277.859"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125">Amphitheater</tspan></text>
+      </g>
+      <g
+         id="g47263"
+         transform="translate(-74.999901,74.999944)">
+        <rect
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#afafaf;stroke-width:37.5;stroke-dasharray:none;stroke-dashoffset:36.2347;stroke-opacity:1;paint-order:stroke markers fill"
+           id="rect5167-0-3-671"
+           width="750.00012"
+           height="300.00037"
+           x="13977.832"
+           y="10508.661"
+           ry="11.930057" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:83.3333px;line-height:1;font-family:sans-serif;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
+           x="14051.355"
+           y="10590.001"
+           id="text986-8-5-2-6-37-0-5-7-7-0"><tspan
+             sodipodi:role="line"
+             x="14051.355"
+             y="10590.001"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;stroke-width:3.125"
+             id="tspan1777-0-8-1-8-7-7-2">Seal Harbor</tspan><tspan
+             id="tspan1839-53-5-4-5-9-03"
+             sodipodi:role="line"
+             x="14051.355"
+             y="10681.668"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Bubble Pond</tspan><tspan
+             sodipodi:role="line"
+             x="14051.355"
+             y="10773.334"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125"
+             id="tspan1252">Day Mountain</tspan></text>
+      </g>
+      <g
+         id="g46902"
+         transform="translate(75.000003,4.4011864e-5)">
+        <rect
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#afafaf;stroke-width:37.5;stroke-dasharray:none;stroke-dashoffset:36.2347;stroke-opacity:1;paint-order:stroke markers fill"
+           id="rect5167-0-3-64"
+           width="750.00012"
+           height="300.00037"
+           x="12852.832"
+           y="11108.661"
+           ry="11.930057" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:83.3333px;line-height:1;font-family:sans-serif;text-align:end;text-anchor:end;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
+           x="13532.397"
+           y="11242.906"
+           id="text986-8-5-2-6-37-0-5-7-7-7"><tspan
+             sodipodi:role="line"
+             x="13532.397"
+             y="11242.906"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;stroke-width:3.125"
+             id="tspan1777-0-8-1-8-7-7-5">Long Pond</tspan><tspan
+             id="tspan1839-53-5-4-5-9-0"
+             sodipodi:role="line"
+             x="13532.397"
+             y="11334.573"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:end;text-anchor:end;fill:#000000;stroke-width:3.125">Mitchell Hill</tspan></text>
+      </g>
+      <g
+         id="g45152"
+         transform="translate(-75.000004,300)">
+        <rect
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#afafaf;stroke-width:37.5;stroke-dasharray:none;stroke-dashoffset:36.2347;stroke-opacity:1;paint-order:stroke markers fill"
+           id="rect5167-0-3-99"
+           width="750.00012"
+           height="300.00037"
+           x="13902.832"
+           y="11558.661"
+           ry="11.930057" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:83.3333px;line-height:1;font-family:sans-serif;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
+           x="13978.279"
+           y="11692.906"
+           id="text986-8-5-2-6-37-0-5-7-7-7-4-3"><tspan
+             sodipodi:role="line"
+             x="13978.279"
+             y="11692.906"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;stroke-width:3.125"
+             id="tspan1777-0-8-1-8-7-7-5-5-1">Eagle Lake</tspan><tspan
+             id="tspan1839-53-5-4-5-9-0-78-8"
+             sodipodi:role="line"
+             x="13978.279"
+             y="11784.573"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Jordan Pond House</tspan></text>
+      </g>
+      <g
+         id="g45494"
+         transform="translate(-75.000004)">
+        <rect
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#afafaf;stroke-width:37.5;stroke-dasharray:none;stroke-dashoffset:36.2347;stroke-opacity:1;paint-order:stroke markers fill"
+           id="rect5167-0-3-675"
+           width="750.00012"
+           height="300.00037"
+           x="13902.832"
+           y="12458.661"
+           ry="11.930057" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-weight:normal;font-size:83.3333px;line-height:1;font-family:sans-serif;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
+           x="13976.355"
+           y="12585.834"
+           id="text986-8-5-2-6-37-0-5-7-7-7-4"><tspan
+             sodipodi:role="line"
+             x="13976.355"
+             y="12585.834"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;stroke-width:3.125"
+             id="tspan1777-0-8-1-8-7-7-5-5">Seal Harbor</tspan><tspan
+             id="tspan1839-53-5-4-5-9-0-78"
+             sodipodi:role="line"
+             x="13976.355"
+             y="12677.501"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Day Mountain</tspan></text>
+      </g>
       <g
          id="g14840"
          transform="translate(2.1666974e-4,-150.00004)">
@@ -4204,6 +4523,29 @@
          x="4752.8325"
          y="14258.661"
          ry="5.9649992" />
+      <g
+         id="g51985"
+         transform="translate(-1950,900.00006)">
+        <rect
+           style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#afafaf;stroke-width:37.5;stroke-dasharray:none;stroke-dashoffset:36.2347;stroke-opacity:1;paint-order:stroke markers fill"
+           id="rect5167-0-3-1-3-4"
+           width="749.99976"
+           height="149.99945"
+           x="12927.832"
+           y="9758.6611"
+           ry="5.9649992" />
+        <text
+           xml:space="preserve"
+           style="font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;font-size:83.3333px;line-height:1;font-family:Montserrat;-inkscape-font-specification:'Montserrat, Light';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
+           x="13105.2"
+           y="9864.209"
+           id="text986-8-5-2-6-37-0-5-7-5"><tspan
+             id="tspan1839-53-5-4-5-3"
+             sodipodi:role="line"
+             x="13105.2"
+             y="9864.209"
+             style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';text-align:start;text-anchor:start;fill:#000000;stroke-width:3.125">Jordan Stream</tspan></text>
+      </g>
       <text
          id="text986-8-3-1-2-2"
          y="14363.739"
@@ -4327,11 +4669,6 @@
              y="13129.709"
              style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:91.6667px;font-family:'Franklin Gothic Demi Cond';-inkscape-font-specification:'Franklin Gothic Demi Cond';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1;stroke-width:3.66485">Jordan Pond House</tspan></text>
       </g>
-      <path
-         style="display:inline;fill:none;stroke:#afafaf;stroke-width:23.4375;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5)"
-         d="m 5936.9542,13832.988 h 899.9997"
-         id="path2312-5-7"
-         sodipodi:nodetypes="cc" />
       <rect
          style="display:inline;fill:#ffffff;fill-opacity:1;stroke:#afafaf;stroke-width:37.5;stroke-dasharray:none;stroke-dashoffset:36.2347;stroke-opacity:1;paint-order:stroke markers fill"
          id="rect5167-0-3-3-9"
@@ -4487,8 +4824,8 @@
          id="rect4067"
          width="75"
          height="75"
-         x="12665.364"
-         y="12459.515" />
+         x="13302.832"
+         y="9758.6611" />
     </g>
   </g>
 </svg>
