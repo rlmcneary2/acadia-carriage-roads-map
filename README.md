@@ -14,7 +14,7 @@ Park. The maps have been designed with the following in mind:
   switchbacks and important details may be obscured.
 - Intersection locations on the map are geographically relative; latitude and
   longitude relationships of intersections are accurate.
-- Fits on a single sheet of letter paper.
+- Legible on a single sheet of letter paper.
 
 ![A stylized map of Carriage Roads in Acadia National Park.](acadia-carriage-roads-map.svg "Acadia Carriage Roads Map")
 
