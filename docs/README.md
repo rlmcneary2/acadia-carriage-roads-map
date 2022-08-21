@@ -18,6 +18,8 @@ Park. The maps have been designed with the following in mind:
 
 ![A stylized map of Carriage Roads in Acadia National Park.](acadia-carriage-roads-map.png "Acadia Carriage Roads Map")
 
+Report errors or corrections to [Rich McNeary](https://limnous.com/).
+
 The map files are licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License](http://creativecommons.org/licenses/by-sa/4.0/).
 
 ![Creative Commons Attribution-ShareAlike 4.0 International License](https://i.creativecommons.org/l/by-sa/4.0/88x31.png "Creative Commons Attribution-ShareAlike 4.0 International License")
