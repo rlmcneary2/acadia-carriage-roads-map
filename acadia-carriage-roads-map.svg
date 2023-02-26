@@ -31,14 +31,14 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.11068712"
-     inkscape:cx="3256.9283"
-     inkscape:cy="3500.8591"
+     inkscape:cx="3636.3763"
+     inkscape:cy="3130.4457"
      inkscape:window-width="1792"
      inkscape:window-height="995"
      inkscape:window-x="0"
      inkscape:window-y="25"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1"
+     inkscape:current-layer="svg5"
      inkscape:showpageshadow="false"
      inkscape:deskcolor="#ffffff"
      showguides="false"
@@ -414,7 +414,7 @@
     <color-profile
        name="sRGB-IEC61966-2.1"
        xlink:href="file:///System/Library/ColorSync/Profiles/sRGB%20Profile.icc"
-       id="color-profile66568" />
+       id="color-profile95513" />
     <rect
        x="-1827.9647"
        y="-922.27625"
@@ -2483,7 +2483,44 @@
        miter_limit="4"
        attempt_force_join="false"
        update_on_knot_move="true" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect13882-2"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect13882-2-8"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
+    <inkscape:path-effect
+       effect="bspline"
+       id="path-effect13882-2-8-3"
+       is_visible="true"
+       lpeversion="1"
+       weight="33.333333"
+       steps="2"
+       helper_size="0"
+       apply_no_weight="true"
+       apply_with_weight="true"
+       only_selected="false" />
   </defs>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Roads" />
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
@@ -3439,9 +3476,9 @@
            xml:space="preserve"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan67892"><tspan
+             id="tspan96858"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan67890">10</tspan></tspan></text>
+               id="tspan96856">10</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:58.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
@@ -3499,9 +3536,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67896"><tspan
+           id="tspan96862"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67894">10</tspan></tspan></text>
+             id="tspan96860">10</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:58.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
@@ -3533,9 +3570,9 @@
          y="0"><tspan
            x="803.73438"
            y="1778.733"
-           id="tspan67900"><tspan
+           id="tspan96866"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67898">11</tspan></tspan></text>
+             id="tspan96864">11</tspan></tspan></text>
     </g>
     <g
        style="display:inline"
@@ -3556,9 +3593,9 @@
          xml:space="preserve"><tspan
            x="828.7832"
            y="1778.733"
-           id="tspan67904"><tspan
+           id="tspan96870"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67902">8</tspan></tspan></text>
+             id="tspan96868">8</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-368.55402,-874.44581)"
@@ -3579,9 +3616,9 @@
          y="0"><tspan
            x="828.7832"
            y="1778.733"
-           id="tspan67908"><tspan
+           id="tspan96874"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67906">9</tspan></tspan></text>
+             id="tspan96872">9</tspan></tspan></text>
     </g>
     <path
        style="display:inline;fill:none;stroke:#afafaf;stroke-width:1.98438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-7)"
@@ -3616,9 +3653,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67912"><tspan
+           id="tspan96878"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67910">12</tspan></tspan></text>
+             id="tspan96876">12</tspan></tspan></text>
     </g>
     <g
        id="g1214"
@@ -3638,9 +3675,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67916"><tspan
+           id="tspan96882"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67914">13</tspan></tspan></text>
+             id="tspan96880">13</tspan></tspan></text>
     </g>
     <g
        id="g1336"
@@ -3660,9 +3697,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67920"><tspan
+           id="tspan96886"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67918">19</tspan></tspan></text>
+             id="tspan96884">19</tspan></tspan></text>
     </g>
     <g
        id="g1375"
@@ -3682,9 +3719,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67924"><tspan
+           id="tspan96890"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67922">18</tspan></tspan></text>
+             id="tspan96888">18</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-965.45401,-607.74583)"
@@ -3704,9 +3741,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67928"><tspan
+           id="tspan96894"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67926">20</tspan></tspan></text>
+             id="tspan96892">20</tspan></tspan></text>
     </g>
     <path
        style="display:inline;fill:none;stroke:#afafaf;stroke-width:1.98438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-2-9-0-67-5-4-5)"
@@ -3736,9 +3773,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67932"><tspan
+           id="tspan96898"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67930">21</tspan></tspan></text>
+             id="tspan96896">21</tspan></tspan></text>
     </g>
     <g
        id="g1954"
@@ -3758,9 +3795,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67936"><tspan
+           id="tspan96902"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67934">22</tspan></tspan></text>
+             id="tspan96900">22</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-965.45403,-836.34582)"
@@ -3780,9 +3817,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67940"><tspan
+           id="tspan96906"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67938">14</tspan></tspan></text>
+             id="tspan96904">14</tspan></tspan></text>
     </g>
     <g
        id="g366"
@@ -3802,9 +3839,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67944"><tspan
+           id="tspan96910"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67942">15</tspan></tspan></text>
+             id="tspan96908">15</tspan></tspan></text>
     </g>
     <g
        id="g504"
@@ -3824,9 +3861,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67948"><tspan
+           id="tspan96914"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67946">23</tspan></tspan></text>
+             id="tspan96912">23</tspan></tspan></text>
     </g>
     <g
        id="g601"
@@ -3846,9 +3883,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67952"><tspan
+           id="tspan96918"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67950">16</tspan></tspan></text>
+             id="tspan96916">16</tspan></tspan></text>
     </g>
     <g
        id="g656"
@@ -3868,9 +3905,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67956"><tspan
+           id="tspan96922"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67954">25</tspan></tspan></text>
+             id="tspan96920">25</tspan></tspan></text>
     </g>
     <g
        id="g1017"
@@ -3890,9 +3927,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67960"><tspan
+           id="tspan96926"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67958">26</tspan></tspan></text>
+             id="tspan96924">26</tspan></tspan></text>
     </g>
     <path
        style="display:inline;fill:none;stroke:#afafaf;stroke-width:1.98438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-2-9-0-67-5-4-3-0-6-6-9)"
@@ -3922,9 +3959,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan67964"><tspan
+           id="tspan96930"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67962">17</tspan></tspan></text>
+             id="tspan96928">17</tspan></tspan></text>
     </g>
     <path
        style="display:inline;fill:none;stroke:#afafaf;stroke-width:1.98438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-2-9-0-67-5-4-3-0-6)"
@@ -3962,9 +3999,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan67968"><tspan
+             id="tspan96934"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan67966">37</tspan></tspan></text>
+               id="tspan96932">37</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -3988,9 +4025,9 @@
            xml:space="preserve"><tspan
              x="828.7832"
              y="1778.733"
-             id="tspan67972"><tspan
+             id="tspan96938"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan67970">7</tspan></tspan></text>
+               id="tspan96936">7</tspan></tspan></text>
       </g>
     </g>
     <path
@@ -4064,9 +4101,9 @@
            y="0"><tspan
              x="828.7832"
              y="1778.733"
-             id="tspan67976"><tspan
+             id="tspan96942"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan67974">6</tspan></tspan></text>
+               id="tspan96940">6</tspan></tspan></text>
       </g>
     </g>
     <path
@@ -4107,9 +4144,9 @@
              y="0"><tspan
                x="800.97559"
                y="1778.733"
-               id="tspan67980"><tspan
+               id="tspan96946"><tspan
                  style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                 id="tspan67978">36</tspan></tspan></text>
+                 id="tspan96944">36</tspan></tspan></text>
         </g>
       </g>
     </g>
@@ -4146,9 +4183,9 @@
              xml:space="preserve"><tspan
                x="800.97559"
                y="1778.733"
-               id="tspan67984"><tspan
+               id="tspan96950"><tspan
                  style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                 id="tspan67982">38</tspan></tspan></text>
+                 id="tspan96948">38</tspan></tspan></text>
         </g>
       </g>
     </g>
@@ -4208,9 +4245,9 @@
              y="0"><tspan
                x="828.7832"
                y="1778.733"
-               id="tspan67988"><tspan
+               id="tspan96954"><tspan
                  style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                 id="tspan67986">4</tspan></tspan></text>
+                 id="tspan96952">4</tspan></tspan></text>
         </g>
       </g>
     </g>
@@ -4239,9 +4276,9 @@
                y="0"><tspan
                  x="828.7832"
                  y="1778.733"
-                 id="tspan67992"><tspan
+                 id="tspan96958"><tspan
                    style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                   id="tspan67990">2</tspan></tspan></text>
+                   id="tspan96956">2</tspan></tspan></text>
           </g>
         </g>
       </g>
@@ -4266,9 +4303,9 @@
            xml:space="preserve"><tspan
              x="828.7832"
              y="1778.733"
-             id="tspan67996"><tspan
+             id="tspan96962"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan67994">5</tspan></tspan></text>
+               id="tspan96960">5</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -4289,9 +4326,9 @@
          xml:space="preserve"><tspan
            x="828.7832"
            y="1778.733"
-           id="tspan68000"><tspan
+           id="tspan96966"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan67998">3</tspan></tspan></text>
+             id="tspan96964">3</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-825.75403,-976.0458)"
@@ -4311,9 +4348,9 @@
          xml:space="preserve"><tspan
            x="828.7832"
            y="1778.733"
-           id="tspan68004"><tspan
+           id="tspan96970"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan68002">1</tspan></tspan></text>
+             id="tspan96968">1</tspan></tspan></text>
     </g>
     <g
        id="g2874"
@@ -4333,9 +4370,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan68008"><tspan
+           id="tspan96974"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan68006">24</tspan></tspan></text>
+             id="tspan96972">24</tspan></tspan></text>
     </g>
     <g
        id="g2913"
@@ -4355,9 +4392,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan68012"><tspan
+           id="tspan96978"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan68010">32</tspan></tspan></text>
+             id="tspan96976">32</tspan></tspan></text>
     </g>
     <g
        id="g2967"
@@ -4377,9 +4414,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan68016"><tspan
+           id="tspan96982"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan68014">33</tspan></tspan></text>
+             id="tspan96980">33</tspan></tspan></text>
     </g>
     <g
        id="g3021"
@@ -4399,9 +4436,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan68020"><tspan
+           id="tspan96986"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan68018">34</tspan></tspan></text>
+             id="tspan96984">34</tspan></tspan></text>
     </g>
     <g
        id="g3075"
@@ -4421,9 +4458,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan68024"><tspan
+           id="tspan96990"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan68022">41</tspan></tspan></text>
+             id="tspan96988">41</tspan></tspan></text>
     </g>
     <g
        id="g3129"
@@ -4443,9 +4480,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan68028"><tspan
+           id="tspan96994"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan68026">40</tspan></tspan></text>
+             id="tspan96992">40</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-965.45402,-620.44586)"
@@ -4466,9 +4503,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan68032"><tspan
+           id="tspan96998"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan68030">41</tspan></tspan></text>
+             id="tspan96996">41</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-813.05403,-874.44584)"
@@ -4488,9 +4525,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan68036"><tspan
+           id="tspan97002"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan68034">28</tspan></tspan></text>
+             id="tspan97000">28</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-889.25404,-772.84584)"
@@ -4510,9 +4547,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan68040"><tspan
+           id="tspan97006"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan68038">30</tspan></tspan></text>
+             id="tspan97004">30</tspan></tspan></text>
     </g>
     <g
        id="g3371"
@@ -4535,9 +4572,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan68044"><tspan
+             id="tspan97010"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan68042">29</tspan></tspan></text>
+               id="tspan97008">29</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -4558,9 +4595,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan68048"><tspan
+           id="tspan97014"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan68046">27</tspan></tspan></text>
+             id="tspan97012">27</tspan></tspan></text>
     </g>
     <g
        id="g3515"
@@ -4580,9 +4617,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan68052"><tspan
+           id="tspan97018"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan68050">31</tspan></tspan></text>
+             id="tspan97016">31</tspan></tspan></text>
     </g>
     <g
        style="display:inline"
@@ -8397,6 +8434,103 @@
        inkscape:export-filename="C:\Users\rich\temp\acadia-carriage-roads-north-map.png"
        inkscape:export-xdpi="91.842834"
        inkscape:export-ydpi="91.842834" />
+    <g
+       id="g90253"
+       transform="translate(62.647073,33.804959)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1;font-family:sans-serif;text-align:center;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-1212.3494"
+         y="-280.56274"
+         id="text141493-8-8"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           sodipodi:role="line"
+           id="tspan88673"
+           x="-1212.3494"
+           y="-280.56274">Parkman</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           sodipodi:role="line"
+           id="tspan88677"
+           x="-1212.3494"
+           y="-269.90787">Mountain</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="-1212.3494"
+           y="-259.25299"
+           id="tspan81884">Entrance</tspan></text>
+      <g
+         id="g80177"
+         transform="matrix(0.16655254,0,0,0.16655254,-962.52956,-114.63909)">
+        <rect
+           style="fill:#774036;fill-opacity:1;stroke:#774036;stroke-width:9.78958;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:9.6;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect4061-4"
+           width="96.349113"
+           height="96.349113"
+           x="-1907.9539"
+           y="212.34637"
+           transform="rotate(45)"
+           inkscape:export-filename="C:\Users\rich\temp\trailhead.png"
+           inkscape:export-xdpi="9.4761734"
+           inkscape:export-ydpi="9.4761734" />
+        <path
+           id="path13880-7-8"
+           style="fill:none;stroke:#ffffff;stroke-width:21.1667;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:path-effect="#path-effect13882-2-8"
+           inkscape:original-d="m -1522.911,-1148.6708 h 45.355 m -22.2001,15.5256 v 40.5924"
+           d="m -1522.911,-1148.6708 c 0,0 45.355,0 45.355,0 m -22.2001,15.5256 c 0,0 0,40.5924 0,40.5924" />
+      </g>
+    </g>
+    <g
+       id="g90813"
+       transform="translate(-1.1951858,-8.3663005)">
+      <text
+         xml:space="preserve"
+         style="font-style:normal;font-weight:normal;font-size:10.5833px;line-height:1;font-family:sans-serif;text-align:center;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583"
+         x="-1148.4277"
+         y="174.86374"
+         id="text141493-8-8-5"><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           sodipodi:role="line"
+           id="tspan88673-1"
+           x="-1148.4277"
+           y="174.86374">Brown</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           sodipodi:role="line"
+           id="tspan88677-2"
+           x="-1148.4277"
+           y="185.51862">Mountain</tspan><tspan
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           sodipodi:role="line"
+           x="-1148.4277"
+           y="196.17349"
+           id="tspan90803">Gatehouse</tspan><tspan
+           sodipodi:role="line"
+           style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:Montserrat;-inkscape-font-specification:Montserrat;text-align:center;text-anchor:middle;stroke-width:0.264583"
+           x="-1148.4277"
+           y="206.82837"
+           id="tspan81884-4">Entrance</tspan></text>
+      <g
+         id="g80177-6"
+         transform="matrix(0.16655254,0,0,0.16655254,-898.6873,340.7874)">
+        <rect
+           style="fill:#774036;fill-opacity:1;stroke:#774036;stroke-width:9.78958;stroke-linecap:round;stroke-linejoin:miter;stroke-dasharray:none;stroke-dashoffset:9.6;stroke-opacity:1;paint-order:markers fill stroke"
+           id="rect4061-4-7"
+           width="96.349113"
+           height="96.349113"
+           x="-1907.9539"
+           y="212.34637"
+           transform="rotate(45)"
+           inkscape:export-filename="C:\Users\rich\temp\trailhead.png"
+           inkscape:export-xdpi="9.4761734"
+           inkscape:export-ydpi="9.4761734" />
+        <path
+           id="path13880-7-8-5"
+           style="fill:none;stroke:#ffffff;stroke-width:21.1667;stroke-linecap:square;stroke-linejoin:miter;stroke-dasharray:none;stroke-opacity:1"
+           inkscape:path-effect="#path-effect13882-2-8-3"
+           inkscape:original-d="m -1522.911,-1148.6708 h 45.355 m -22.2001,15.5256 v 40.5924"
+           d="m -1522.911,-1148.6708 c 0,0 45.355,0 45.355,0 m -22.2001,15.5256 c 0,0 0,40.5924 0,40.5924" />
+      </g>
+    </g>
   </g>
   <metadata
      id="metadata1511">
