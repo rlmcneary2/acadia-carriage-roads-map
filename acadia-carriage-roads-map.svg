@@ -7,10 +7,10 @@
    viewBox="0 0 1724.431 1852.538"
    version="1.1"
    id="svg5"
-   inkscape:version="1.2.2 (b0a8486, 2022-12-01)"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
    sodipodi:docname="acadia-carriage-roads-map.svg"
-   inkscape:export-xdpi="300"
-   inkscape:export-ydpi="300"
+   inkscape:export-xdpi="182.67905"
+   inkscape:export-ydpi="182.67905"
    inkscape:export-filename="C:\Users\rich\temp\acadia-carriage-roads-map.png"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
@@ -18,7 +18,10 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:cc="http://creativecommons.org/ns#">
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title
+     id="title11973">Acadia Carriage Roads Map</title>
   <sodipodi:namedview
      id="namedview7"
      pagecolor="#ffffff"
@@ -30,13 +33,13 @@
      inkscape:blackoutopacity="0.0"
      inkscape:document-units="mm"
      showgrid="false"
-     inkscape:zoom="0.44274846"
-     inkscape:cx="2699.0495"
-     inkscape:cy="4242.8154"
-     inkscape:window-width="1792"
-     inkscape:window-height="995"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
+     inkscape:zoom="0.07860142"
+     inkscape:cx="3218.7714"
+     inkscape:cy="3485.9421"
+     inkscape:window-width="1536"
+     inkscape:window-height="793"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
      inkscape:window-maximized="1"
      inkscape:current-layer="layer1"
      inkscape:showpageshadow="false"
@@ -414,7 +417,7 @@
     <color-profile
        name="sRGB-IEC61966-2.1"
        xlink:href="file:///System/Library/ColorSync/Profiles/sRGB%20Profile.icc"
-       id="color-profile58892" />
+       id="color-profile17473" />
     <rect
        x="-1827.9647"
        y="-922.27625"
@@ -863,7 +866,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2" />
@@ -883,7 +885,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3" />
@@ -903,7 +904,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0" />
@@ -923,7 +923,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-6" />
@@ -943,7 +942,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6" />
@@ -963,7 +961,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6" />
@@ -983,7 +980,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-7" />
@@ -1003,7 +999,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-7-7" />
@@ -1023,7 +1018,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-7-4" />
@@ -1043,7 +1037,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8" />
@@ -1082,7 +1075,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3" />
@@ -1102,7 +1094,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7" />
@@ -1122,7 +1113,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5" />
@@ -1142,7 +1132,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-5" />
@@ -1162,7 +1151,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-52" />
@@ -1182,7 +1170,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-52-5" />
@@ -1202,7 +1189,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-52-5-5" />
@@ -1222,7 +1208,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-52-5-6" />
@@ -1242,7 +1227,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-52-5-6-5" />
@@ -1262,7 +1246,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51" />
@@ -1282,7 +1265,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9" />
@@ -1302,7 +1284,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1" />
@@ -1322,7 +1303,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7" />
@@ -1342,7 +1322,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-9" />
@@ -1362,7 +1341,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-90" />
@@ -1382,7 +1360,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-3" />
@@ -1402,7 +1379,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-3-5" />
@@ -1422,7 +1398,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6" />
@@ -1442,7 +1417,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-3-5-7" />
@@ -1462,7 +1436,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-3-5-8" />
@@ -1482,7 +1455,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1" />
@@ -1502,7 +1474,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2" />
@@ -1522,7 +1493,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-5-2" />
@@ -1542,7 +1512,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2-5" />
@@ -1562,7 +1531,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2-5-4" />
@@ -1582,7 +1550,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2-5-4-8" />
@@ -1602,7 +1569,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2-5-4-2" />
@@ -1622,7 +1588,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2-1" />
@@ -1642,7 +1607,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2-1-5" />
@@ -1662,7 +1626,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2-1-5-9" />
@@ -1682,7 +1645,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2-1-5-4" />
@@ -1702,7 +1664,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2-5-4-8-7" />
@@ -1722,7 +1683,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2-5-4-8-7-1" />
@@ -1742,7 +1702,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2-5-4-8-7-1-3" />
@@ -1762,7 +1721,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-8" />
@@ -1782,7 +1740,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-8-6" />
@@ -1802,7 +1759,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2-1-5-9-8" />
@@ -1822,7 +1778,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-5" />
@@ -1842,7 +1797,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2" />
@@ -1862,7 +1816,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-3" />
@@ -1882,7 +1835,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-3-3" />
@@ -1902,7 +1854,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-3-3-3" />
@@ -1922,7 +1873,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-3-9" />
@@ -1942,7 +1892,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-0" />
@@ -1962,7 +1911,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-0-1" />
@@ -1982,7 +1930,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-9" />
@@ -2002,7 +1949,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-0-1-7" />
@@ -2022,7 +1968,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-9-4" />
@@ -2042,7 +1987,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-0" />
@@ -2062,7 +2006,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-8-6-8" />
@@ -2082,7 +2025,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-8-6-8-8" />
@@ -2102,7 +2044,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-99" />
@@ -2122,7 +2063,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-99-6" />
@@ -2142,7 +2082,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-8-6-8-8-4" />
@@ -2162,7 +2101,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-0-4" />
@@ -2182,7 +2120,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-99-6-8" />
@@ -2202,7 +2139,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-99-1" />
@@ -2222,7 +2158,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-0-4-7" />
@@ -2242,7 +2177,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-99-6-8-3" />
@@ -2262,7 +2196,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-99-6-8-6" />
@@ -2282,7 +2215,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-99-6-8-62" />
@@ -2302,7 +2234,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-55" />
@@ -2322,7 +2253,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-55-5" />
@@ -2342,7 +2272,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-0-4-0" />
@@ -2362,7 +2291,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-0-9-1-7-6-1-2-5-4-6" />
@@ -2382,7 +2310,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-99-6-8-3-2" />
@@ -2402,7 +2329,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-99-1-2" />
@@ -2422,7 +2348,6 @@
        preserveAspectRatio="none"
        markerUnits="userSpaceOnUse">
       <path
-         
          style="fill:context-stroke;fill-rule:evenodd;stroke:context-stroke;stroke-width:1pt"
          d="M 5.77,0 -2.88,5 V -5 Z"
          id="path135-8-2-3-6-6-8-3-7-5-51-2-99-6-8-3-2-7" />
@@ -2520,7 +2445,8 @@
      inkscape:groupmode="layer"
      id="layer6"
      inkscape:label="Bridges"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g9856-2-8-9-66"
        transform="matrix(0.08466667,0,0,0.08466667,897.63354,-500.20749)">
@@ -2968,7 +2894,8 @@
      inkscape:groupmode="layer"
      id="layer5"
      inkscape:label="Landmarks"
-     style="display:inline">
+     style="display:inline"
+     sodipodi:insensitive="true">
     <g
        id="g102649"
        transform="translate(1147.894,1116.5042)">
@@ -3976,7 +3903,8 @@
      inkscape:label="Carriage Roads"
      inkscape:groupmode="layer"
      id="layer1"
-     transform="translate(1147.894,1116.5042)">
+     transform="translate(1147.894,1116.5042)"
+     sodipodi:insensitive="true">
     <path
        sodipodi:nodetypes="cc"
        inkscape:connector-curvature="0"
@@ -4187,7 +4115,7 @@
        sodipodi:nodetypes="cssssc"
        inkscape:connector-curvature="0"
        id="path1156-6-5-5-4-6"
-       d="M -605.62067,65.354188 V 14.554186 c 0,-3.613416 4.85328,-8.4666677 8.46667,-8.4666677 h 152.4 c 3.61339,0 8.46667,4.8532517 8.46667,8.4666677 v 88.900004"
+       d="M -427.82067,103.45419 V 14.554186 c 0,-8.3603148 -8.57304,-16.9333343 -16.93333,-16.9333343 h -152.4 c -8.36029,0 -16.93333,8.5730195 -16.93333,16.9333343 v 50.800002"
        style="display:inline;fill:none;stroke:#937034;stroke-width:4.233;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        inkscape:original-d="M -432.054,103.45419 V 14.554186 c 0,-5.9868654 -6.71316,-12.700001 -12.7,-12.700001 h -152.4 c -5.98684,0 -12.7,6.7131356 -12.7,12.700001 v 50.800002"
        inkscape:path-effect="#path-effect16970" />
@@ -4714,13 +4642,13 @@
        d="m -266.95402,-480.7458 h -533.39996 c -13.38697,0 -26.12632,6.71316 -38.1,12.7 l -203.20002,101.6 c -8.4667,4.23333 -12.7,15.93398 -12.7,25.4 v 101.60001 c 0,13.38697 5.6061,30.15203 12.7,38.09999"
        style="display:inline;fill:none;stroke:#000000;stroke-width:4.23333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     <path
-       sodipodi:nodetypes="cc"
+       sodipodi:nodetypes="cccc"
        inkscape:connector-curvature="0"
        id="path1156-6-53-9"
-       d="M -186.52069,-163.2458 V -290.24579"
+       d="m -206.44742,-299.95228 12.7,12.7 -1.23991,-2.99342 v 127 l 4.23333,-4.23333 h -25.4"
        style="display:inline;fill:none;stroke:#937034;stroke-width:4.23333;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
        inkscape:path-effect="#path-effect124324"
-       inkscape:original-d="M -190.75402,-290.24579 V -163.2458" />
+       inkscape:original-d="m -203.454,-302.9457 12.7,12.7 v 127 h -25.4" />
     <path
        style="display:inline;fill:none;stroke:#afafaf;stroke-width:1.98438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-8-1-4-7-8-9-8-3)"
        d="m -190.75402,-290.2458 c -3.3467,3.3467 -15.70321,3.34678 -19.05,0 l -12.7,-12.7"
@@ -4778,9 +4706,9 @@
            xml:space="preserve"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan60240"><tspan
+             id="tspan18823"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan60238">10</tspan></tspan></text>
+               id="tspan18821">10</tspan></tspan></text>
         <text
            xml:space="preserve"
            style="font-style:normal;font-weight:normal;font-size:58.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
@@ -4838,9 +4766,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60244"><tspan
+           id="tspan18827"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60242">10</tspan></tspan></text>
+             id="tspan18825">10</tspan></tspan></text>
       <text
          xml:space="preserve"
          style="font-style:normal;font-weight:normal;font-size:58.3333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none;stroke-width:3.125"
@@ -4872,9 +4800,9 @@
          y="0"><tspan
            x="803.73438"
            y="1778.733"
-           id="tspan60248"><tspan
+           id="tspan18831"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60246">11</tspan></tspan></text>
+             id="tspan18829">11</tspan></tspan></text>
     </g>
     <g
        style="display:inline"
@@ -4895,9 +4823,9 @@
          xml:space="preserve"><tspan
            x="828.7832"
            y="1778.733"
-           id="tspan60252"><tspan
+           id="tspan18835"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60250">8</tspan></tspan></text>
+             id="tspan18833">8</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-368.55402,-874.44581)"
@@ -4918,9 +4846,9 @@
          y="0"><tspan
            x="828.7832"
            y="1778.733"
-           id="tspan60256"><tspan
+           id="tspan18839"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60254">9</tspan></tspan></text>
+             id="tspan18837">9</tspan></tspan></text>
     </g>
     <path
        style="display:inline;fill:none;stroke:#afafaf;stroke-width:1.98438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-3-7)"
@@ -4955,9 +4883,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60260"><tspan
+           id="tspan18843"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60258">12</tspan></tspan></text>
+             id="tspan18841">12</tspan></tspan></text>
     </g>
     <g
        id="g1214"
@@ -4977,9 +4905,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60264"><tspan
+           id="tspan18847"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60262">13</tspan></tspan></text>
+             id="tspan18845">13</tspan></tspan></text>
     </g>
     <g
        id="g1336"
@@ -4999,9 +4927,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60268"><tspan
+           id="tspan18851"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60266">19</tspan></tspan></text>
+             id="tspan18849">19</tspan></tspan></text>
     </g>
     <g
        id="g1375"
@@ -5021,9 +4949,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60272"><tspan
+           id="tspan18855"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60270">18</tspan></tspan></text>
+             id="tspan18853">18</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-965.45401,-607.74583)"
@@ -5043,9 +4971,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60276"><tspan
+           id="tspan18859"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60274">20</tspan></tspan></text>
+             id="tspan18857">20</tspan></tspan></text>
     </g>
     <path
        style="display:inline;fill:none;stroke:#afafaf;stroke-width:1.98438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-2-9-0-67-5-4-5)"
@@ -5075,9 +5003,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60280"><tspan
+           id="tspan18863"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60278">21</tspan></tspan></text>
+             id="tspan18861">21</tspan></tspan></text>
     </g>
     <g
        id="g1954"
@@ -5097,9 +5025,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60284"><tspan
+           id="tspan18867"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60282">22</tspan></tspan></text>
+             id="tspan18865">22</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-965.45403,-836.34582)"
@@ -5119,9 +5047,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60288"><tspan
+           id="tspan18871"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60286">14</tspan></tspan></text>
+             id="tspan18869">14</tspan></tspan></text>
     </g>
     <g
        id="g366"
@@ -5141,9 +5069,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60292"><tspan
+           id="tspan18875"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60290">15</tspan></tspan></text>
+             id="tspan18873">15</tspan></tspan></text>
     </g>
     <g
        id="g504"
@@ -5163,9 +5091,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60296"><tspan
+           id="tspan18879"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60294">23</tspan></tspan></text>
+             id="tspan18877">23</tspan></tspan></text>
     </g>
     <g
        id="g601"
@@ -5185,9 +5113,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60300"><tspan
+           id="tspan18883"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60298">16</tspan></tspan></text>
+             id="tspan18881">16</tspan></tspan></text>
     </g>
     <g
        id="g656"
@@ -5207,9 +5135,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60304"><tspan
+           id="tspan18887"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60302">25</tspan></tspan></text>
+             id="tspan18885">25</tspan></tspan></text>
     </g>
     <g
        id="g1017"
@@ -5229,9 +5157,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60308"><tspan
+           id="tspan18891"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60306">26</tspan></tspan></text>
+             id="tspan18889">26</tspan></tspan></text>
     </g>
     <path
        style="display:inline;fill:none;stroke:#afafaf;stroke-width:1.98438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-2-9-0-67-5-4-3-0-6-6-9)"
@@ -5261,9 +5189,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60312"><tspan
+           id="tspan18895"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60310">17</tspan></tspan></text>
+             id="tspan18893">17</tspan></tspan></text>
     </g>
     <path
        style="display:inline;fill:none;stroke:#afafaf;stroke-width:1.98438;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;marker-end:url(#TriangleStart-5-1-3-2-9-0-67-5-4-3-0-6)"
@@ -5301,9 +5229,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan60316"><tspan
+             id="tspan18899"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan60314">37</tspan></tspan></text>
+               id="tspan18897">37</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -5327,9 +5255,9 @@
            xml:space="preserve"><tspan
              x="828.7832"
              y="1778.733"
-             id="tspan60320"><tspan
+             id="tspan18903"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan60318">7</tspan></tspan></text>
+               id="tspan18901">7</tspan></tspan></text>
       </g>
     </g>
     <path
@@ -5403,9 +5331,9 @@
            y="0"><tspan
              x="828.7832"
              y="1778.733"
-             id="tspan60324"><tspan
+             id="tspan18907"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan60322">6</tspan></tspan></text>
+               id="tspan18905">6</tspan></tspan></text>
       </g>
     </g>
     <path
@@ -5446,9 +5374,9 @@
              y="0"><tspan
                x="800.97559"
                y="1778.733"
-               id="tspan60328"><tspan
+               id="tspan18911"><tspan
                  style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                 id="tspan60326">36</tspan></tspan></text>
+                 id="tspan18909">36</tspan></tspan></text>
         </g>
       </g>
     </g>
@@ -5485,9 +5413,9 @@
              xml:space="preserve"><tspan
                x="800.97559"
                y="1778.733"
-               id="tspan60332"><tspan
+               id="tspan18915"><tspan
                  style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                 id="tspan60330">38</tspan></tspan></text>
+                 id="tspan18913">38</tspan></tspan></text>
         </g>
       </g>
     </g>
@@ -5547,9 +5475,9 @@
              y="0"><tspan
                x="828.7832"
                y="1778.733"
-               id="tspan60336"><tspan
+               id="tspan18919"><tspan
                  style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                 id="tspan60334">4</tspan></tspan></text>
+                 id="tspan18917">4</tspan></tspan></text>
         </g>
       </g>
     </g>
@@ -5578,9 +5506,9 @@
                y="0"><tspan
                  x="828.7832"
                  y="1778.733"
-                 id="tspan60340"><tspan
+                 id="tspan18923"><tspan
                    style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-                   id="tspan60338">2</tspan></tspan></text>
+                   id="tspan18921">2</tspan></tspan></text>
           </g>
         </g>
       </g>
@@ -5605,9 +5533,9 @@
            xml:space="preserve"><tspan
              x="828.7832"
              y="1778.733"
-             id="tspan60344"><tspan
+             id="tspan18927"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan60342">5</tspan></tspan></text>
+               id="tspan18925">5</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -5628,9 +5556,9 @@
          xml:space="preserve"><tspan
            x="828.7832"
            y="1778.733"
-           id="tspan60348"><tspan
+           id="tspan18931"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60346">3</tspan></tspan></text>
+             id="tspan18929">3</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-825.75403,-976.0458)"
@@ -5650,9 +5578,9 @@
          xml:space="preserve"><tspan
            x="828.7832"
            y="1778.733"
-           id="tspan60352"><tspan
+           id="tspan18935"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60350">1</tspan></tspan></text>
+             id="tspan18933">1</tspan></tspan></text>
     </g>
     <g
        id="g2874"
@@ -5672,9 +5600,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60356"><tspan
+           id="tspan18939"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60354">24</tspan></tspan></text>
+             id="tspan18937">24</tspan></tspan></text>
     </g>
     <g
        id="g2913"
@@ -5694,9 +5622,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60360"><tspan
+           id="tspan18943"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60358">32</tspan></tspan></text>
+             id="tspan18941">32</tspan></tspan></text>
     </g>
     <g
        id="g2967"
@@ -5716,9 +5644,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60364"><tspan
+           id="tspan18947"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60362">33</tspan></tspan></text>
+             id="tspan18945">33</tspan></tspan></text>
     </g>
     <g
        id="g3021"
@@ -5738,9 +5666,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60368"><tspan
+           id="tspan18951"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60366">34</tspan></tspan></text>
+             id="tspan18949">34</tspan></tspan></text>
     </g>
     <g
        id="g3075"
@@ -5760,9 +5688,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60372"><tspan
+           id="tspan18955"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60370">41</tspan></tspan></text>
+             id="tspan18953">41</tspan></tspan></text>
     </g>
     <g
        id="g3129"
@@ -5782,9 +5710,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60376"><tspan
+           id="tspan18959"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60374">40</tspan></tspan></text>
+             id="tspan18957">40</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-965.45402,-620.44586)"
@@ -5805,9 +5733,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60380"><tspan
+           id="tspan18963"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60378">41</tspan></tspan></text>
+             id="tspan18961">41</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-813.05403,-874.44584)"
@@ -5827,9 +5755,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60384"><tspan
+           id="tspan18967"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60382">28</tspan></tspan></text>
+             id="tspan18965">28</tspan></tspan></text>
     </g>
     <g
        transform="matrix(0.08466667,0,0,0.08466667,-889.25404,-772.84584)"
@@ -5849,9 +5777,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60388"><tspan
+           id="tspan18971"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60386">30</tspan></tspan></text>
+             id="tspan18969">30</tspan></tspan></text>
     </g>
     <g
        id="g3371"
@@ -5874,9 +5802,9 @@
            y="0"><tspan
              x="800.97559"
              y="1778.733"
-             id="tspan60392"><tspan
+             id="tspan18975"><tspan
                style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-               id="tspan60390">29</tspan></tspan></text>
+               id="tspan18973">29</tspan></tspan></text>
       </g>
     </g>
     <g
@@ -5897,9 +5825,9 @@
          xml:space="preserve"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60396"><tspan
+           id="tspan18979"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60394">27</tspan></tspan></text>
+             id="tspan18977">27</tspan></tspan></text>
     </g>
     <g
        id="g3515"
@@ -5919,9 +5847,9 @@
          y="0"><tspan
            x="800.97559"
            y="1778.733"
-           id="tspan60400"><tspan
+           id="tspan18983"><tspan
              style="font-weight:bold;font-family:Arial;-inkscape-font-specification:'Arial Bold';text-anchor:middle"
-             id="tspan60398">31</tspan></tspan></text>
+             id="tspan18981">31</tspan></tspan></text>
     </g>
     <g
        style="display:inline"
@@ -8401,6 +8329,20 @@
   </g>
   <g
      inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="boundary"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#000000;fill-opacity:0;stroke-width:1.7018;paint-order:markers fill stroke"
+       id="rect2179"
+       width="1835.35"
+       height="1945.6285"
+       x="-1214.8489"
+       y="-1167.705"
+       transform="translate(1147.894,1116.5042)" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
      id="layer4"
      inkscape:label="Tools"
      sodipodi:insensitive="true"
@@ -8561,6 +8503,23 @@
          rdf:about="">
         <cc:license
            rdf:resource="http://creativecommons.org/licenses/by-sa/4.0/" />
+        <dc:title>Acadia Carriage Roads Map</dc:title>
+        <dc:date>June 27, 2023</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Richard L. McNeary II</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:rights>
+          <cc:Agent>
+            <dc:title>copyright Richard L. McNeary II</dc:title>
+          </cc:Agent>
+        </dc:rights>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>acadia &quot;acadia national park&quot; &quot;carriage roads&quot;</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
       </cc:Work>
       <cc:License
          rdf:about="http://creativecommons.org/licenses/by-sa/4.0/">
