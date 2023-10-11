@@ -1,11 +1,22 @@
 # acadia-carriage-roads-map
 
 A map that displays information about the carriage roads in Acadia National
-Park. The maps have been designed with the following in mind:
+Park. **The map is not to scale**. Trying to navigate based on just the signs at
+intersections is notoriously difficult this map makes it easier to get from
+place to place in the park. Helpful information includes:
 
-- Trying to navigate based on just the signs at intersections is notoriously
-  difficult. Each intersection is numbered and has the sign names pointing
-  towards the next intersection.
+- Each intersection is numbered and indicates the sign name directions.
+- Includes park landmarks like: Hulls Cove Visitor Center, Jordan Pond
+  House, Eagle Lake Carriage Road Entry, Hadlock Pond Carriage Road Entry
+- Distances between intersections is indicated on each road segment.
+
+You can use the [Island Explorer buses](https://islandexplorermap.com/) to get
+around the island with or without your bike. For maps and detailed information
+about each route, stop, point of interest and **updated bus locations** on a
+map of the island visit [islandexplorer.app](https://www.islandexplorer.app/).
+
+The maps have been designed with the following in mind:
+
 - The relationships of roads at intersections is accurate. For example if one
   road enters from the west and another from west northwest they will be shown
   with an acute angle between them.
