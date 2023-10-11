@@ -3,9 +3,9 @@
 A map that displays information about the carriage roads in Acadia National
 Park. The maps have been designed with the following in mind:
 
-- Understanding of carriage road intersection numbers, intersecting road names,
-  and destinations. Trying to navigate based on just the signs at intersections
-  is notoriously difficult.
+- Trying to navigate based on just the signs at intersections is notoriously
+  difficult. Each intersection is numbered and has the sign names pointing
+  towards the next intersection.
 - The relationships of roads at intersections is accurate. For example if one
   road enters from the west and another from west northwest they will be shown
   with an acute angle between them.
